@@ -1,0 +1,77 @@
+{
+    "coldkey": {
+        "url": "<tbd>",
+        "definition":"The main key for a Bittensor wallet. Used to transfer, buy, sell, and stake/delegate tao."
+    },
+    "consensus": {
+        "url": "<tbd>",
+        "definition":"Miner's score from the Yuma Consensus. Not applicable to validators."
+    },
+    
+    "Daily Rewards":{
+        "url": "<tbd>",
+        "definition": "Based on the current emission - extrapolated to 24 hours.  Example: If your emission is 1 tao/epoch, your Daily reward will be 20 tao. (20 epochs/day)"
+
+    },
+    "Delegate" : {
+        "url": "<tbd>",
+        "definition" :"The process of staking tao to a validator.  When tao is delegated, the owner of the tao receives a portion of the validator's emissions."
+    },
+    "Dividends" : {
+        "url": "<tbd>",
+        "definition" :"A score for validators denoting the fraction of emission for each validator."
+    },
+    "Events" : {
+        "url": "<tbd>",
+        "definition" :"Events are node/subnet registrations, tao trades, delegations, and distributions. They are recorded in the bittensor chain."
+    },
+    "Emission" : {
+        "url": "<tbd>",
+        "definition" :"This is the tao that will be received by the node every epoch.  Note that the emission in the command line is rao per block.  The values are the same, just in different units."
+    },
+    "Extrinsic" : {
+        "url": "<tbd>",
+        "definition" :"A grouping of events.  For example - a Balance Transfer extrinsic will have withdrawal and transfer steps."
+    },
+    "Hotkey" : {
+        "url": "<tbd>",
+        "definition" :"Hotkeys are used to register subnets and nodes on the network.  One hotkey can be registered per subnet.  All hotkeys are associated with a coldkey. Coldkeys can have multiple hotkeys."
+    },
+    "Incentive" : {
+        "url": "<tbd>",
+        "definition" :""
+    },
+    "Miner" : {
+        "url": "<tbd>",
+        "definition" :"Miners are nodes on a subnet.  Miners are given work to perform, and this work is graded by the validators.  Miners receive tao emissions as an incentive for their work."
+    },
+    "Stake" : {
+        "url": "<tbd>",
+        "definition" :"A tao owner can stake (or delegate) their tao with a validator. The higher the validator's stake, the higher their return.  Delegated tao receives a portion of the validator's tao emissions."
+    },
+    "Subnet" : {
+        "url": "<tbd>",
+        "definition" :"Short for \"subnetwork.\" There are currently 32 subnets in the Bittensor network."
+    },
+    "Tao" : {
+        "url": "<tbd>",
+        "definition" :"The token of the Bittensor subtensor.  1 tao is emitted from the network every 12 seconds. Tao can be divided into rao (there are 1B rao per tao)."
+    },
+    "Trust" : {
+        "url": "<tbd>",
+        "definition" :"A score for miners, created by the Yuma Consensus. It is a combination of all the weights from all the validators.  Higher trust leads to higher emissions."
+    },
+    "Undelegate" : {
+        "url": "<tbd>",
+        "definition" :"The process of removing delegation/stake from a validator. The tao removed from the validator will be added to the user's coldkey."
+    },
+    "Validator" : {
+        "url": "<tbd>",
+        "definition" :"Validators are nodes on a subnet. Validators check the work of the miners and grade the miners based on the quality of the response."
+    },
+    "VTrust" : {
+        "url": "<tbd>",
+        "definition" :"A score given to validators on a subnet. It is a ranking based on how well the validator's weights match the consensus. High VTrust leads to higher emissions."
+    }
+
+}
