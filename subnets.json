@@ -92,7 +92,7 @@
         "name": "Transcription",
         "github": "https://github.com/Cazure8/transcription-subnet",
         "hw_reqirements":"https://github.com/Cazure8/transcription-subnet/blob/main/min_compute.yml",
-        "image_url":"",
+        "image_url":"https://github.com/Cazure8/transcription-subnet/raw/main/docs/SN11.png",
         "description": "Welcome to the Transcription Subnet, a pioneering decentralized AI network within the Bittensor ecosystem, designed to revolutionize the way we interact with audio-to-text technology. This initiative is a leap forward in democratizing access to cutting-edge AI capabilities, fostering a thriving community where contributors are incentivized for their valuable input."
     },
     "12": {
@@ -172,7 +172,7 @@
         "name": "Filetao",
         "github": "https://github.com/ifrit98/storage-subnet",
         "hw_reqirements":"https://github.com/ifrit98/storage-subnet/blob/main/min_compute.yml",
-        "image_url":"",
+        "image_url":"https://github.com/ifrit98/storage-subnet/raw/main/assets/Subnet21.png",
         "description": "FileTAO (Bittensor Subnet 21) implements a novel, multi-layered zero-knowledge interactive proof-of-spacetime algorithm by cleverly using Pedersen commitments, random challenges leveraging elliptic curve cryptography, sequential seed-based chained hash verification, and merkle proofs to achieve an efficient, robust, secure, and highly available decetralized storage system on the Bittensor network. The system validates on encrypted user data, such that miners are unaware of what data they are storing, and only end-users may encrypt/decrypt the data they provide with their bittensor wallet coldkey."
     },
     "22": {
@@ -196,7 +196,7 @@
         "name": "Omega",
         "github": "https://github.com/omegalabsinc/omegalabs-bittensor-subnet",
         "hw_reqirements":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/blob/main/min_compute.yml",
-        "image_url":"",
+        "image_url":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/raw/main/docs/galacticlandscape.png",
         "description": "Welcome to the OMEGA Labs Bittensor subnet, a groundbreaking initiative that aims to create the world's largest decentralized multimodal dataset for accelerating Artificial General Intelligence (AGI) research and development. Our mission is to democratize access to a vast and diverse dataset that captures the landscape of human knowledge and creation, empowering researchers and developers to push the boundaries of AGI."
     },
     "25": {
@@ -204,7 +204,7 @@
         "name": "hivetrain",
         "github": "https://github.com/KMFODA/DistributedTraining",
         "hw_reqirements":"",
-        "image_url":"",
+        "image_url":"https://github.com/KMFODA/DistributedTraining/raw/main/assets/Subnet25.jpg",
         "description": ""
     },
     "26": {
@@ -228,7 +228,7 @@
         "name": "Foundry S&P 500 Oracle",
         "github": "https://github.com/teast21/snpOracle",
         "hw_reqirements":"https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements",
-        "image_url":"",
+        "image_url":"https://github.com/teast21/snpOracle/raw/main/accelerate.png",
         "description": "Foundry is launching Foundry S&P 500 Oracle to incentivize miners to make predictions on the S&P 500 price frequently throughout trading hours. Validators send miners a timestamp (a future time) for which the miners need to make an S&P 500 price prediction for."
     },
     "29": {
