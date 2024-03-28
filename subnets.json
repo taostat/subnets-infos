@@ -4,6 +4,7 @@
         "name": "Root",
         "github": "",
         "hw_reqirements":"",
+        "image_url":"",
         "description": "The root network is a meta subnet with id 0. This network determines the proportion of the network’s block emission to be distributed to each subnet network. This is currently set to 1 TAO for every block mined.  Like other subnetworks, the root network consists of a set of validators that set weights (W). These weights are then processed by Yuma Consensus to determine an emission vector (E). The difference is that the vector E has a length equal to the number of active subnetworks currently running on the chain and each e_i in E is the emission proportion that subnet i receives every block. The root network also doubles as the network senate. This senate is the top 12 keys on this network which have been granted veto power on proposals submitted by the triumvirate."
     },
     "1": {
@@ -11,6 +12,7 @@
         "name": "Text Prompting",
         "github": "https://github.com/opentensor/prompting",
         "hw_reqirements":"https://github.com/opentensor/prompting/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "This Subnet defines an incentive mechanism to create a distributed conversational AI."
     },
     "2": {
@@ -18,6 +20,7 @@
         "name": "Machine Translation",
         "github": "https://github.com/bittranslateio/bittranslate",
         "hw_reqirements":"",
+        "image_url":"",
         "description": "BitTranslate is a Subnet that rewards high-quality translations."
     },
     "3": {
@@ -25,6 +28,7 @@
         "name": "",
         "github": "",
         "hw_reqirements":"",
+        "image_url":"",
         "description": ""
     },
     "4": {
@@ -32,6 +36,7 @@
         "name": "Multi Modality",
         "github": "https://github.com/manifold-inc/targon",
         "hw_reqirements":"https://github.com/manifold-inc/targon#compute-requirements",
+        "image_url":"",
         "description": "TARGON (Bittensor Subnet 4) is a redundant deterministic verification mechanism that can be used to interpret and analyze ground truth sources and a query."
     },
     "5": {
@@ -39,6 +44,7 @@
         "name": "Open Kaito",
         "github": "https://github.com/OpenKaito/openkaito",
         "hw_reqirements":"https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Kaito AI is committed to democratizing access to Web3 information through its established platform. However, the in-house approach to data collection, indexing, AI training, and ranking imposes operational burdens and stifles broader public innovation."
     },
     "6": {
@@ -46,6 +52,7 @@
         "name": "Nous Finetuning",
         "github": "https://github.com/NousResearch/finetuning-subnet",
         "hw_reqirements":"https://github.com/NousResearch/finetuning-subnet/blob/master/min_compute.yml",
+        "image_url":"",
         "description": "The Nous-Bittensor subnet rewards miners for fine-tuning Large Language Models (LLMs) with data generated from a continuous stream of synthetic data provided by subnet 18 (also on Bittensor). It is the first-ever continuous fine-tuning benchmark, with new data generated daily, and the first incentivized fine-tuning benchmark. Additionally, it is the first Bittensor subnet to perform true cross-boundary communication, where data from one subnet is utilized in a secondary subnet."
     },
     "7": {
@@ -53,6 +60,7 @@
         "name": "Subvortex",
         "github": "https://github.com/eclipsevortex/SubVortex",
         "hw_reqirements":"https://github.com/eclipsevortex/SubVortex/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "SubVortex introduces an incentivized and decentralized network of subtensor nodes that are pivotal elements within the Bittensor ecosystem. This delineates the structure, objectives, and mechanisms of SubVortex, aiming to foster decentralization, stability, and efficient resource allocation within the broader Bittensor network."
     },
     "8": {
@@ -60,6 +68,7 @@
         "name": "Time Series Prediction",
         "github": "https://github.com/taoshidev/time-series-prediction-subnet",
         "hw_reqirements":"https://github.com/taoshidev/time-series-prediction-subnet/blob/main/docs/miner.md#system-requirements",
+        "image_url":"",
         "description": "Initially, the primary focus of TSPS is to forecast the future trends of financial markets, starting with predicting the price movements of Bitcoin. Eventually, TSPS will expand to include a broader range of cryptocurrency trading pairs. Subsequently, our scope will broaden to encompass additional financial markets."
     },
     "9": {
@@ -67,6 +76,7 @@
         "name": "Pretraining",
         "github": "https://github.com/RaoFoundation/pretraining",
         "hw_reqirements":"https://github.com/RaoFoundation/pretraining/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Bittensor subnet 9 rewards miners for producing pretrained Foundation-Models on the Falcon Refined Web dataset."
     },
     "10": {
@@ -74,6 +84,7 @@
         "name": "Map Reduce",
         "github": "https://github.com/dream-well/map-reduce-subnet",
         "hw_reqirements":"https://docs.taostats.io/docs/subnet-10-map-reduce#running-miner",
+        "image_url":"",
         "description": "The Bittensor Subnet 10 (Map Reduce Subnet) incentivizes miners by offering rewards for contributing network bandwidth and memory resources."
     },
     "11": {
@@ -81,6 +92,7 @@
         "name": "Transcription",
         "github": "https://github.com/Cazure8/transcription-subnet",
         "hw_reqirements":"https://github.com/Cazure8/transcription-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Welcome to the Transcription Subnet, a pioneering decentralized AI network within the Bittensor ecosystem, designed to revolutionize the way we interact with audio-to-text technology. This initiative is a leap forward in democratizing access to cutting-edge AI capabilities, fostering a thriving community where contributors are incentivized for their valuable input."
     },
     "12": {
@@ -88,6 +100,7 @@
         "name": "Horde",
         "github": "https://github.com/backend-developers-ltd/ComputeHorde>",
         "hw_reqirements":"",
+        "image_url":"",
         "description": ""
     },
     "13": {
@@ -95,6 +108,7 @@
         "name": "Dataverse",
         "github": "https://github.com/RusticLuftig/data-universe/",
         "hw_reqirements":"https://github.com/RusticLuftig/data-universe/blob/main/docs/miner.md#system-requirements",
+        "image_url":"",
         "description": "Data Universe is a Bittensor subnet for collecting and storing large amounts of data from across a wide-range of sources, for use by other Subnets. It was built from the ground-up with a focus on decentralization and scalability."
     },
     "14": {
@@ -102,6 +116,7 @@
         "name": "LLm Defender",
         "github": "https://github.com/ceterum1/llm-defender-subnet",
         "hw_reqirements":"https://github.com/synapsec-ai/llm-defender-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "The LLM Defender subnet provides Large Language Model (LLM) developers a way to decentralize the computing required to detect and prevent various attacks and exploits against LLM applications."
     },
     "15": {
@@ -109,6 +124,7 @@
         "name": "Blockchain Insights",
         "github": "https://github.com/blockchain-insights/blockchain-data-subnet",
         "hw_reqirements":"https://github.com/blockchain-insights/blockchain-data-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Blockchain Insights Subnet is an innovative project focusing on transforming raw blockchain data into structured graph models. This project aims to provide comprehensive insights into various blockchain activities, including simple transactions, DeFi protocol transactions, and NFT exchanges."
     },
     "16": {
@@ -116,6 +132,7 @@
         "name": "Audio",
         "github": "https://github.com/UncleTensor/AudioSubnet",
         "hw_reqirements":"https://github.com/UncleTensor/AudioSubnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "This subnetwork is a decentralized system designed for text-to-audio applications within the Bittensor network. It consists of a Validator and a Miner working collaboratively to generate high-quality audio from provided prompts. In the first phase, we will start with text-to-speech (TTS), working in parallel to add music generation in the upcoming updates."
     },
     "17": {
@@ -123,6 +140,7 @@
         "name": "Flavia",
         "github": "https://github.com/CortexLM/flavia",
         "hw_reqirements":"",
+        "image_url":"",
         "description": "The Flavia project is a sub-network of the Bittensor network, focused on decentralized model inference at different scales. It represents a groundbreaking innovation in the field of distributed computing, bringing a new level of efficiency and scalability to model inference tasks. This project is not just a technical achievement; it's a visionary step towards a more interconnected and collaborative digital ecosystem."
     },
     "18": {
@@ -130,6 +148,7 @@
         "name": "Cortex.t",
         "github": "https://github.com/corcel-api/cortex.t",
         "hw_reqirements":"https://github.com/corcel-api/cortex.t/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Cortex.t stands at the forefront of artificial intelligence, offering a dual-purpose solution that caters to the needs of app developers and innovators in the AI space. This platform is meticulously designed to deliver reliable, high-quality text and image responses through API usage, utilising the decentralised Bittensor network. It serves as a cornerstone for creating a fair, transparent, and manipulation-free environment for the incentivised production of intelligence (mining) and generation and fulfilment of diverse user prompts."
     },
     "19": {
@@ -137,6 +156,7 @@
         "name": "Vision",
         "github": "https://github.com/namoray/vision",
         "hw_reqirements":"https://docs.taostats.io/docs/subnet-19-vision#Requirements",
+        "image_url":"",
         "description": "Subnet 19 is a Bittensor subnetwork, focused around inference at scale, with an initial focus on image generation & manipulation models."
     },
     "20": {
@@ -144,6 +164,7 @@
         "name": "BitAgent",
         "github": "https://github.com/RogueTensor/bitagent_subnet",
         "hw_reqirements":"https://github.com/RogueTensor/bitagent_subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "BitAgent revolutionizes how you manage tasks and workflows across platforms, merging the capabilities of large language models (LLMs) with the convenience of your favorite apps such as web browsers, Discord, and custom integrations. BitAgent empowers users to seamlessly integrate intelligent agents, providing personalized assistance and integrated task automation."
     },
     "21": {
@@ -151,6 +172,7 @@
         "name": "Filetao",
         "github": "https://github.com/ifrit98/storage-subnet",
         "hw_reqirements":"https://github.com/ifrit98/storage-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "FileTAO (Bittensor Subnet 21) implements a novel, multi-layered zero-knowledge interactive proof-of-spacetime algorithm by cleverly using Pedersen commitments, random challenges leveraging elliptic curve cryptography, sequential seed-based chained hash verification, and merkle proofs to achieve an efficient, robust, secure, and highly available decetralized storage system on the Bittensor network. The system validates on encrypted user data, such that miners are unaware of what data they are storing, and only end-users may encrypt/decrypt the data they provide with their bittensor wallet coldkey."
     },
     "22": {
@@ -158,6 +180,7 @@
         "name": "Metasearch",
         "github": "https://github.com/surcyf123/smart-scrape/",
         "hw_reqirements":"",
+        "image_url":"",
         "description": "Welcome to Smart-Scrape, a cutting-edge tool hosted on the Bittensor network, designed for effective and simplified analysis of Twitter data. This tool is ideal for researchers, marketers, and data analysts who seek to extract insightful information from Twitter with ease."
     },
     "23": {
@@ -165,6 +188,7 @@
         "name": "Niche Image",
         "github": "https://github.com/NicheTensor/NicheImage",
         "hw_reqirements":"https://docs.taostats.io/docs/subnet-23-niche-image#setup-instructions-for-miners",
+        "image_url":"",
         "description": "NicheImage is a decentralized network that utilizes the Bittensor protocol to enable distributed image generation."
     },
     "24": {
@@ -172,6 +196,7 @@
         "name": "Omega",
         "github": "https://github.com/omegalabsinc/omegalabs-bittensor-subnet",
         "hw_reqirements":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Welcome to the OMEGA Labs Bittensor subnet, a groundbreaking initiative that aims to create the world's largest decentralized multimodal dataset for accelerating Artificial General Intelligence (AGI) research and development. Our mission is to democratize access to a vast and diverse dataset that captures the landscape of human knowledge and creation, empowering researchers and developers to push the boundaries of AGI."
     },
     "25": {
@@ -179,6 +204,7 @@
         "name": "hivetrain",
         "github": "https://github.com/KMFODA/DistributedTraining",
         "hw_reqirements":"",
+        "image_url":"",
         "description": ""
     },
     "26": {
@@ -186,6 +212,7 @@
         "name": "Image Alchemy",
         "github": "https://github.com/Supreme-Emperor-Wang/ImageAlchemy",
         "hw_reqirements":"https://docs.google.com/document/d/1FzZe5EskEV0Q6BkOuVkqCrIEexzQZd_134eT74B7hPA/edit",
+        "image_url":"",
         "description": ""
     },
     "27": {
@@ -193,6 +220,7 @@
         "name": "Compute",
         "github": "https://github.com/neuralinternet/compute-subnet",
         "hw_reqirements":"https://github.com/neuralinternet/compute-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "This repository serves as a compute-composable subnet, integrating various cloud platforms (e.g., Runpod, Lambda, AWS) into a cohesive unit. Its purpose is to enable higher-level cloud platforms to offer seamless compute composability across different underlying platforms. "
     },
     "28": {
@@ -200,6 +228,7 @@
         "name": "Foundry S&P 500 Oracle",
         "github": "https://github.com/teast21/snpOracle",
         "hw_reqirements":"https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements",
+        "image_url":"",
         "description": "Foundry is launching Foundry S&P 500 Oracle to incentivize miners to make predictions on the S&P 500 price frequently throughout trading hours. Validators send miners a timestamp (a future time) for which the miners need to make an S&P 500 price prediction for."
     },
     "29": {
@@ -207,6 +236,7 @@
         "name": "Fractal Research",
         "github": "https://github.com/fractal-net/fractal",
         "hw_reqirements":"https://docs.taostats.io/docs/subnet-5-fractal-research#compute-requirements",
+        "image_url":"",
         "description": "Fractal, taking inspiration from Manifold Labs' Deterministic Verification Network, is utilizing deterministic verification to create a grid of decentralized nodes to perform inference for video generation."
     },
     "30": {
@@ -214,6 +244,7 @@
         "name": "wombo ",
         "github": "https://github.com/womboai/wombo-bittensor-subnet",
         "hw_reqirements":"https://github.com/womboai/wombo-bittensor-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": ""
     },
     "31": {
@@ -221,6 +252,7 @@
         "name": "Healthcare",
         "github": "https://github.com/bthealthcare/healthcare-subnet",
         "hw_reqirements":"https://github.com/bthealthcare/healthcare-subnet/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "A groundbreaking healthcare subnet on the Bittensor network!"
     },
     "32": {
@@ -228,6 +260,7 @@
         "name": "LLM Detection",
         "github": "https://github.com/It-s-AI/llm-detection",
         "hw_reqirements":"https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml",
+        "image_url":"",
         "description": "Our subnet focuses on the detection of AI-generated content. Given the rapid growth of LLM-generated text, such as ChatGPT's output of 100 billion words daily compared to humans' 100 trillion, we believe that the ability to accurately determine AI-generated text will become increasingly necessary."
     }
 
