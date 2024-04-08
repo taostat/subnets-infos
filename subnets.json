@@ -249,11 +249,11 @@
     },
     "31": {
         "bittensor_id":"zayin",
-        "name": "TAS",
-        "github": "https://github.com/tao-accounting-system-protocol/tas-protocol",
-        "hw_requirements":"https://github.com/tao-accounting-system-protocol/tas-protocol/blob/main/min_compute.yml",
-        "image_url":"",
-        "description": "The Tao Accounting System Protocol focuses on two areas of innovation: novel token accounting on TAO and AI model democratization. TAS Protocol is the first protocol to implement TRC-20, and experimental token standard to unlock tokens on Bittensor Network trc-20."
+        "name": "NAS Chain",
+        "github": "https://github.com/nimaaghli/NASChain",
+        "hw_requirements":"https://github.com/nimaaghli/NASChain/blob/main/min_compute.yml",
+        "image_url":"https://github.com/nimaaghli/NASChain/raw/main/imgs/naschain_logo.png",
+        "description": "Neural Architecture Search (NAS) is a critical field in machine learning that focuses on automating the design of artificial neural network architectures."
     },
     "32": {
         "bittensor_id":"chet",
