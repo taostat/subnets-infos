@@ -98,7 +98,7 @@
     "12": {
         "bittensor_id":"mu",
         "name": "Horde",
-        "github": "https://github.com/backend-developers-ltd/ComputeHorde>",
+        "github": "https://github.com/backend-developers-ltd/ComputeHorde",
         "hw_requirements":"",
         "image_url":"",
         "description": ""
