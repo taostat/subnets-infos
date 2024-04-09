@@ -81,11 +81,11 @@
     },
     "10": {
         "bittensor_id":"kappa",
-        "name": "Map Reduce",
-        "github": "https://github.com/dream-well/map-reduce-subnet",
-        "hw_requirements":"https://docs.taostats.io/docs/subnet-10-map-reduce#running-miner",
-        "image_url":"",
-        "description": "The Bittensor Subnet 10 (Map Reduce Subnet) incentivizes miners by offering rewards for contributing network bandwidth and memory resources."
+        "name": "Decentralized Distributed Data",
+        "github": "https://github.com/gitphantomman/d3_subnet",
+        "hw_requirements":"https://github.com/gitphantomman/d3_subnet/blob/main/docs/miner.md",
+        "image_url":"https://github.com/gitphantomman/d3_subnet/raw/main/docs/d3.png",
+        "description": "The D3 Subnet, standing for Decentralized Distributed Data Scraping subnet, plays a crucial role in the advancement of artificial intelligence by ensuring ample training data for all Bittensor AI networks."
     },
     "11": {
         "bittensor_id":"lambda",
