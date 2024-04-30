@@ -17,11 +17,11 @@
     },
     "2": {
         "bittensor_id":"beta",
-        "name": "Machine Translation",
-        "github": "https://github.com/bittranslateio/bittranslate",
-        "hw_requirements":"https://discord.com/channels/799672011265015819/1161764868265869314/1174714177798017024",
+        "name": "Omron",
+        "github": "https://github.com/inference-labs-inc/omron-subnet",
+        "hw_requirements":"https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
         "image_url":"",
-        "description": "BitTranslate is a Subnet that rewards high-quality translations."
+        "description": "Omron subnet, building cryptographically verified efficient and intelligent capital networks."
     },
     "3": {
         "bittensor_id":"gamma",
@@ -65,11 +65,11 @@
     },
     "8": {
         "bittensor_id":"theta",
-        "name": "Time Series Prediction",
-        "github": "https://github.com/taoshidev/time-series-prediction-subnet",
-        "hw_requirements":"https://github.com/taoshidev/time-series-prediction-subnet/blob/main/docs/miner.md#system-requirements",
-        "image_url":"",
-        "description": "Initially, the primary focus of TSPS is to forecast the future trends of financial markets, starting with predicting the price movements of Bitcoin. Eventually, TSPS will expand to include a broader range of cryptocurrency trading pairs. Subsequently, our scope will broaden to encompass additional financial markets."
+        "name": "Proprietary Trading Network",
+        "github": "https://github.com/taoshidev/proprietary-trading-network",
+        "hw_requirements":"https://github.com/taoshidev/proprietary-trading-network/blob/main/docs/miner.md",
+        "image_url":"https://camo.githubusercontent.com/6f50fcc5d5dee8a6edfbaace39f44d187c3c3a792f62dcc7e2e4819912550e0a/68747470733a2f2f692e696d6775722e636f6d2f356854737039372e706e67",
+        "description": "PTN receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes."
     },
     "9": {
         "bittensor_id":"iota",
@@ -81,11 +81,11 @@
     },
     "10": {
         "bittensor_id":"kappa",
-        "name": "Decentralized Distributed Data",
-        "github": "https://github.com/gitphantomman/d3_subnet",
-        "hw_requirements":"https://github.com/gitphantomman/d3_subnet/blob/main/docs/miner.md",
-        "image_url":"https://github.com/gitphantomman/d3_subnet/raw/main/docs/d3.png",
-        "description": "The D3 Subnet, standing for Decentralized Distributed Data Scraping subnet, plays a crucial role in the advancement of artificial intelligence by ensuring ample training data for all Bittensor AI networks."
+        "name": "Apollo ZK",
+        "github": "https://github.com/apollozkp/zkp-subnet",
+        "hw_requirements":"https://github.com/apollozkp/zkp-subnet?tab=readme-ov-file#hardware-requirements",
+        "image_url":"",
+        "description": "Apollo Collaborative Zero-knowledge Proof Generation Subnet"
     },
     "11": {
         "bittensor_id":"lambda",
@@ -100,7 +100,7 @@
         "name": "Horde",
         "github": "https://github.com/backend-developers-ltd/ComputeHorde",
         "hw_requirements":"",
-        "image_url":"",
+        "image_url":"https://github.com/backend-developers-ltd/ComputeHorde/raw/master/ComputeHorde.png",
         "description": ""
     },
     "13": {
@@ -129,19 +129,19 @@
     },
     "16": {
         "bittensor_id":"pi",
-        "name": "Audio",
-        "github": "https://github.com/UncleTensor/AudioSubnet",
-        "hw_requirements":"https://github.com/UncleTensor/AudioSubnet/blob/main/min_compute.yml",
-        "image_url":"",
-        "description": "This subnetwork is a decentralized system designed for text-to-audio applications within the Bittensor network. It consists of a Validator and a Miner working collaboratively to generate high-quality audio from provided prompts. In the first phase, we will start with text-to-speech (TTS), working in parallel to add music generation in the upcoming updates."
+        "name": "BitAds",
+        "github": "https://github.com/eseckft/BitAds.ai/",
+        "hw_requirements":"https://github.com/eseckft/BitAds.ai/blob/main/min_compute.yml",
+        "image_url":"https://github.com/eseckft/BitAds.ai/raw/main/docs/bitads.png",
+        "description": "Revolutionizing Online Advertising with Decentralization. Discover how BitAds leverages the Bittensor Network to offer cost-effective, high-quality advertising through a unique incentive mechanism for miners and validators."
     },
     "17": {
         "bittensor_id":"rho",
-        "name": "Flavia",
-        "github": "https://github.com/CortexLM/flavia",
-        "hw_requirements":"",
+        "name": "Three Gen",
+        "github": "https://github.com/404-Repo/three-gen-subnet",
+        "hw_requirements":"https://github.com/404-Repo/three-gen-subnet?tab=readme-ov-file#hardware-requirements",
         "image_url":"",
-        "description": "The Flavia project is a sub-network of the Bittensor network, focused on decentralized model inference at different scales. It represents a groundbreaking innovation in the field of distributed computing, bringing a new level of efficiency and scalability to model inference tasks. This project is not just a technical achievement; it's a visionary step towards a more interconnected and collaborative digital ecosystem."
+        "description": "This subnet aims to kickstart the next revolution in gaming around AI native games, ultimately leveraging the broader Bittensor ecosystem to facilitate experiences in which assets, voice and sound are all generated at runtime."
     },
     "18": {
         "bittensor_id":"sigma",
@@ -241,7 +241,7 @@
     },
     "30": {
         "bittensor_id":"wav",
-        "name": "wombo ",
+        "name": "womboAI",
         "github": "https://github.com/womboai/wombo-bittensor-subnet",
         "hw_requirements":"https://github.com/womboai/wombo-bittensor-subnet/blob/main/min_compute.yml",
         "image_url":"",
@@ -257,7 +257,7 @@
     },
     "32": {
         "bittensor_id":"chet",
-        "name": "LLM Detection",
+        "name": "It's AI",
         "github": "https://github.com/It-s-AI/llm-detection",
         "hw_requirements":"https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml",
         "image_url":"",
