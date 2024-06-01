@@ -81,19 +81,19 @@
     },
     "10": {
         "bittensor_id":"kappa",
-        "name": "Apollo ZK",
-        "github": "https://github.com/apollozkp/zkp-subnet",
-        "hw_requirements":"https://github.com/apollozkp/zkp-subnet?tab=readme-ov-file#hardware-requirements",
+        "name": "Sturdy",
+        "github": "https://github.com/Sturdy-Subnet/sturdy-subnet/",
+        "hw_requirements":"https://github.com/Sturdy-Subnet/sturdy-subnet/blob/main/min_compute.yml",
         "image_url":"",
-        "description": "Apollo Collaborative Zero-knowledge Proof Generation Subnet"
+        "description": "The Sturdy Subnet is a Bittensor subnetwork that enables the creation of decentralized, autonomous yield optimizers."
     },
     "11": {
         "bittensor_id":"lambda",
-        "name": "Transcription",
-        "github": "https://github.com/Cazure8/transcription-subnet",
-        "hw_requirements":"https://github.com/Cazure8/transcription-subnet/blob/main/min_compute.yml",
-        "image_url":"https://github.com/Cazure8/transcription-subnet/raw/main/docs/SN11.png",
-        "description": "Welcome to the Transcription Subnet, a pioneering decentralized AI network within the Bittensor ecosystem, designed to revolutionize the way we interact with audio-to-text technology. This initiative is a leap forward in democratizing access to cutting-edge AI capabilities, fostering a thriving community where contributors are incentivized for their valuable input."
+        "name": "Dippy Roleplay",
+        "github": "https://github.com/impel-intelligence/dippy-bittensor-subnet",
+        "hw_requirements":"https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
+        "image_url":"https://github.com/impel-intelligence/dippy-bittensor-subnet/raw/main/assests/banner.png",
+        "description": "The Dippy Roleplay subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community."
     },
     "12": {
         "bittensor_id":"mu",
@@ -113,7 +113,7 @@
     },
     "14": {
         "bittensor_id":"xi",
-        "name": "LLm Defender",
+        "name": "LLM Defender",
         "github": "https://github.com/ceterum1/llm-defender-subnet",
         "hw_requirements":"https://github.com/synapsec-ai/llm-defender-subnet/blob/main/min_compute.yml",
         "image_url":"",
@@ -201,10 +201,10 @@
     },
     "25": {
         "bittensor_id":"alef",
-        "name": "hivetrain",
-        "github": "https://github.com/KMFODA/DistributedTraining",
-        "hw_requirements":"",
-        "image_url":"https://github.com/KMFODA/DistributedTraining/raw/main/assets/Subnet25.jpg",
+        "name": "Protein Folding",
+        "github": "https://github.com/macrocosm-os/folding",
+        "hw_requirements":"https://github.com/macrocosm-os/folding/blob/main/min_compute.yml",
+        "image_url":"https://github.com/macrocosm-os/folding/raw/main/assets/macrocosmos-white.png",
         "description": ""
     },
     "26": {
@@ -262,6 +262,38 @@
         "hw_requirements":"https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml",
         "image_url":"",
         "description": "Our subnet focuses on the detection of AI-generated content. Given the rapid growth of LLM-generated text, such as ChatGPT's output of 100 billion words daily compared to humans' 100 trillion, we believe that the ability to accurately determine AI-generated text will become increasingly necessary."
+    },
+    "33": {
+        "bittensor_id":"tet",
+        "name": "Conversation Genome",
+        "github": "https://github.com/afterpartyai/bittensor-conversation-genome-project",
+        "hw_requirements":"https://github.com/afterpartyai/bittensor-conversation-genome-project/blob/main/min_compute.yml",
+        "image_url":"",
+        "description": "The Conversation Genome Project (CGP) is an open-source initiative aimed at enabling personalized conversational AI by providing a comprehensive dataset of indexed and tagged conversations."
+    },
+    "34": {
+        "bittensor_id":"yod",
+        "name": "Healthi",
+        "github": "https://github.com/Healthi-Labs/healthi-subnet",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": "The primary goal of this subnet is to utilize AI models for predictive diagnostics based on electronic health records (EHRs)."
+    },
+    "35": {
+        "bittensor_id":"kaf",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+    "36": {
+        "bittensor_id":"lamed",
+        "name": "Human Intelligence Primitive",
+        "github": "https://github.com/HIP-Labs/HIP-Subnet",
+        "hw_requirements":"https://github.com/HIP-Labs/HIP-Subnet/blob/main/min_compute.yml",
+        "image_url":"",
+        "description": "The HIP Subnet leverages human intelligence to perform tasks that require subjective judgment, contextual understanding, and creative problem-solving. Miners in the HIP Subnet are human participants who contribute their cognitive abilities to evaluate and provide feedback on data submitted by other subnets."
     }
 
 
