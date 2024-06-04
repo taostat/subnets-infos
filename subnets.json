@@ -49,11 +49,11 @@
     },
     "6": {
         "bittensor_id":"zeta",
-        "name": "Nous Finetuning",
-        "github": "https://github.com/NousResearch/finetuning-subnet",
-        "hw_requirements":"https://github.com/NousResearch/finetuning-subnet/blob/master/min_compute.yml",
-        "image_url":"",
-        "description": "The Nous-Bittensor subnet rewards miners for fine-tuning Large Language Models (LLMs) with data generated from a continuous stream of synthetic data provided by subnet 18 (also on Bittensor). It is the first-ever continuous fine-tuning benchmark, with new data generated daily, and the first incentivized fine-tuning benchmark. Additionally, it is the first Bittensor subnet to perform true cross-boundary communication, where data from one subnet is utilized in a secondary subnet."
+        "name": "Decentralized Distributed Data",
+        "github": "https://github.com/gitphantomman/d3_subnet/",
+        "hw_requirements":"https://github.com/gitphantomman/d3_subnet/blob/main/docs/miner.md",
+        "image_url":"https://raw.githubusercontent.com/gitphantomman/d3_subnet/main/docs/d3.png",
+        "description": "The purpose of the d3_subnet is to generate the training datasets essential for Bittensor’s AI models. To achieve this, we have implemented a novel mechanism that rapidly constructs diverse datasets without duplication."
     },
     "7": {
         "bittensor_id":"eta",
