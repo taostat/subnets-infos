@@ -294,9 +294,25 @@
         "hw_requirements":"https://github.com/HIP-Labs/HIP-Subnet/blob/main/min_compute.yml",
         "image_url":"",
         "description": "The HIP Subnet leverages human intelligence to perform tasks that require subjective judgment, contextual understanding, and creative problem-solving. Miners in the HIP Subnet are human participants who contribute their cognitive abilities to evaluate and provide feedback on data submitted by other subnets."
+    },
+    "37": {
+        "bittensor_id":"mem",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "38": {
+        "bittensor_id":"nun",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
     }
-
-
 
 
 
