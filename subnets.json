@@ -185,7 +185,7 @@
     },
     "23": {
         "bittensor_id":"psi",
-        "name": "Niche Image",
+        "name": "SocialTensor",
         "github": "https://github.com/NicheTensor/NicheImage",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-23-niche-image#setup-instructions-for-miners",
         "image_url":"",
