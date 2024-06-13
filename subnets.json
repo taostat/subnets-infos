@@ -169,11 +169,11 @@
     },
     "21": {
         "bittensor_id":"phi",
-        "name": "Filetao",
-        "github": "https://github.com/ifrit98/storage-subnet",
-        "hw_requirements":"https://github.com/ifrit98/storage-subnet/blob/main/min_compute.yml",
-        "image_url":"https://github.com/ifrit98/storage-subnet/raw/main/assets/Subnet21.png",
-        "description": "FileTAO (Bittensor Subnet 21) implements a novel, multi-layered zero-knowledge interactive proof-of-spacetime algorithm by cleverly using Pedersen commitments, random challenges leveraging elliptic curve cryptography, sequential seed-based chained hash verification, and merkle proofs to achieve an efficient, robust, secure, and highly available decetralized storage system on the Bittensor network. The system validates on encrypted user data, such that miners are unaware of what data they are storing, and only end-users may encrypt/decrypt the data they provide with their bittensor wallet coldkey."
+        "name": "Omega Any-to-any",
+        "github": "https://github.com/taostat/subnets-infos/blob/main/subnets.json",
+        "hw_requirements":"",
+        "image_url":"https://github.com/omegalabsinc/omegalabs-anytoany-bittensor/raw/main/galactic_a2a.png",
+        "description": "OMEGA Any-to-Any is a decentralized, open-source AI project built on the Bittensor blockchain by OMEGA Labs. "
     },
     "22": {
         "bittensor_id":"chi",
