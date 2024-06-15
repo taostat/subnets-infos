@@ -297,11 +297,11 @@
     },
     "37": {
         "bittensor_id":"mem",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "name": "Astro Biology",
+        "github": "https://github.com/AstroTensor/Astrobiology",
+        "hw_requirements":"https://github.com/AstroTensor/Astrobiology/blob/main/min_compute.yml",
+        "image_url":"https://github.com/AstroTensor/Astrobiology/raw/main/astrobiology.jpeg",
+        "description": "Predicting the path of asteroids is both a computationally difficult challenge and one of incredible importance for safeguarding humanity against fast moving, interplanetary objects. "
 
     },
     "38": {
