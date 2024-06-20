@@ -10,8 +10,8 @@
     "1": {
         "bittensor_id":"alpha",
         "name": "Text Prompting",
-        "github": "https://github.com/opentensor/prompting",
-        "hw_requirements":"https://github.com/opentensor/prompting/blob/main/min_compute.yml",
+        "github": "https://github.com/macrocosm-os/prompting",
+        "hw_requirements":"https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
         "image_url":"",
         "description": "This Subnet defines an incentive mechanism to create a distributed conversational AI."
     },
@@ -74,8 +74,8 @@
     "9": {
         "bittensor_id":"iota",
         "name": "Pretraining",
-        "github": "https://github.com/RaoFoundation/pretraining",
-        "hw_requirements":"https://github.com/RaoFoundation/pretraining/blob/main/min_compute.yml",
+        "github": "https://github.com/macrocosm-os/pretraining",
+        "hw_requirements":"https://github.com/macrocosm-os/pretraining/blob/main/min_compute.yml",
         "image_url":"",
         "description": "Bittensor subnet 9 rewards miners for producing pretrained Foundation-Models on the Falcon Refined Web dataset."
     },
@@ -106,8 +106,8 @@
     "13": {
         "bittensor_id":"nu",
         "name": "Dataverse",
-        "github": "https://github.com/RusticLuftig/data-universe/",
-        "hw_requirements":"https://github.com/RusticLuftig/data-universe/blob/main/docs/miner.md#system-requirements",
+        "github": "https://github.com/macrocosm-os/data-universe/",
+        "hw_requirements":"https://github.com/macrocosm-os/data-universe/blob/main/docs/miner.md#system-requirements",
         "image_url":"",
         "description": "Data Universe is a Bittensor subnet for collecting and storing large amounts of data from across a wide-range of sources, for use by other Subnets. It was built from the ground-up with a focus on decentralization and scalability."
     },
