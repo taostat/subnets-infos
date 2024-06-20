@@ -49,11 +49,11 @@
     },
     "6": {
         "bittensor_id":"zeta",
-        "name": "Decentralized Distributed Data",
-        "github": "https://github.com/gitphantomman/d3_subnet/",
-        "hw_requirements":"https://github.com/gitphantomman/d3_subnet/blob/main/docs/miner.md",
-        "image_url":"https://raw.githubusercontent.com/gitphantomman/d3_subnet/main/docs/d3.png",
-        "description": "The purpose of the d3_subnet is to generate the training datasets essential for Bittensor’s AI models. To achieve this, we have implemented a novel mechanism that rapidly constructs diverse datasets without duplication."
+        "name": "Infinite Games",
+        "github": "https://github.com/amedeo-gigaver/infinite_games",
+        "hw_requirements":"https://github.com/amedeo-gigaver/infinite_games/blob/main/min_compute.yml",
+        "image_url":"https://github.com/amedeo-gigaver/infinite_games/raw/main/docs/infinite-games.jpeg",
+        "description": "Incentivizing the prediction of future events."
     },
     "7": {
         "bittensor_id":"eta",
