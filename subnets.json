@@ -241,9 +241,9 @@
     },
     "30": {
         "bittensor_id":"wav",
-        "name": "womboAI",
-        "github": "https://github.com/womboai/wombo-bittensor-subnet",
-        "hw_requirements":"https://github.com/womboai/wombo-bittensor-subnet/blob/main/min_compute.yml",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
         "image_url":"",
         "description": ""
     },
