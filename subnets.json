@@ -297,14 +297,77 @@
     },
     "37": {
         "bittensor_id":"mem",
-        "name": "Unknown",
+        "name": "Finetuning",
+        "github": "https://github.com/macrocosm-os/finetuning",
+        "hw_requirements":"https://github.com/macrocosm-os/finetuning/blob/main/min_compute.yml",
+        "image_url":"https://github.com/macrocosm-os/finetuning/raw/main/assets/macrocosmos-white.png",
+        "description": "The Finetuning subnet 37 rewards miners for fine-tuning Large Language Models (LLMs)."
+    },
+    "38": {
+        "bittensor_id":"nun",
+        "name": "",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
         "description": ""
+
     },
-    "38": {
-        "bittensor_id":"nun",
+    "39": {
+        "bittensor_id":"",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "40": {
+        "bittensor_id":"",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "41": {
+        "bittensor_id":"",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "42": {
+        "bittensor_id":"",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "43": {
+        "bittensor_id":"",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "44": {
+        "bittensor_id":"",
+        "name": "",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "45": {
+        "bittensor_id":"",
         "name": "",
         "github": "",
         "hw_requirements":"",
