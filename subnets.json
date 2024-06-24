@@ -281,11 +281,11 @@
     },
     "35": {
         "bittensor_id":"kaf",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
+        "name": "Einstein - AIT",
+        "github": "https://github.com/AIT-Protocol/einstein-ait-prod",
+        "hw_requirements":"https://github.com/AIT-Protocol/einstein-ait-prod/blob/main/min_compute.yml",
         "image_url":"",
-        "description": ""
+        "description": "Einstein-AIT is a decentralized network utilizing the Bittensor protocol for advanced AI/ML model development focused on mathematics, computational thinking, and data analysis. "
     },
     "36": {
         "bittensor_id":"lamed",
