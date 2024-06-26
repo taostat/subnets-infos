@@ -241,11 +241,11 @@
     },
     "30": {
         "bittensor_id":"wav",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "name": "Bettensor",
+        "github": "https://github.com/Bettensor/bettensor",
+        "hw_requirements":"https://github.com/Bettensor/bettensor/blob/main/min_compute.yml",
+        "image_url":"https://github.com/Bettensor/bettensor/raw/main/docs/assets/bettensor-twitter-header.jpg",
+        "description": "Bettensor is a sports prediction subnet. The goal of Bettensor is to provide a platform for sports fans to predict the outcomes of their favorite sporting events, and ML/AI researchers to develop new models and strategies to benchmark against good, old fashioned human intelligence and intuition"
     },
     "31": {
         "bittensor_id":"zayin",
