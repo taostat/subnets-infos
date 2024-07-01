@@ -33,7 +33,7 @@
     },
     "4": {
         "bittensor_id":"delta",
-        "name": "Multi Modality",
+        "name": "Targon",
         "github": "https://github.com/manifold-inc/targon",
         "hw_requirements":"https://github.com/manifold-inc/targon#compute-requirements",
         "image_url":"",
