@@ -250,9 +250,9 @@
     "31": {
         "bittensor_id":"zayin",
         "name": "NAS Chain",
-        "github": "https://github.com/nimaaghli/NASChain",
-        "hw_requirements":"https://github.com/nimaaghli/NASChain/blob/main/min_compute.yml",
-        "image_url":"https://github.com/nimaaghli/NASChain/raw/main/imgs/naschain_logo.png",
+        "github": "https://github.com/neuronlogic/NASChain",
+        "hw_requirements":"https://github.com/neuronlogic/NASChain/blob/main/min_compute.yml",
+        "image_url":"https://github.com/neuronlogic/NASChain/raw/main/imgs/naschain_logo.png",
         "description": "Neural Architecture Search (NAS) is a critical field in machine learning that focuses on automating the design of artificial neural network architectures."
     },
     "32": {
