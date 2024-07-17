@@ -313,12 +313,12 @@
 
     },
     "39": {
-        "bittensor_id":"",
-        "name": "",
-        "github": "",
+        "bittensor_id":"samekh",
+        "name": "EdgeMaxxing",
+        "github": "https://github.com/womboai/edge-optimization-subnet",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://camo.githubusercontent.com/8dee96c4061d56aa6940f9fa2cdb88139772459450fde3cc27876aaa0f8bbc57/68747470733a2f2f636f6e74656e742e776f6d626f2e61692f62697474656e736f722f534e33395f636f7665722e6a706567",
+        "description": "WOMBO EdgeMaxxing Subnet: Optimizing AI Models for Consumer Devices"
 
     },
     "40": {
