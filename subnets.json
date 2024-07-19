@@ -332,11 +332,11 @@
     },
     "41": {
         "bittensor_id":"",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "name": "Sportstensor",
+        "github": "https://github.com/xzistance/sportstensor",
+        "hw_requirements":"https://github.com/xzistance/sportstensor/blob/main/min_compute.yml",
+        "image_url":"https://github.com/xzistance/sportstensor/raw/main/docs/sportstensor_header.png",
+        "description": "The world's most accurate sports prediction algorithm"
 
     },
     "42": {
