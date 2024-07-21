@@ -233,11 +233,11 @@
     },
     "29": {
         "bittensor_id":"he",
-        "name": "Fractal Research",
-        "github": "https://github.com/fractal-net/fractal",
-        "hw_requirements":"https://docs.taostats.io/docs/subnet-5-fractal-research#compute-requirements",
+        "name": "Coldint",
+        "github": "https://github.com/coldint",
+        "hw_requirements":"https://github.com/coldint/coldint_validator/blob/main/min_compute.yml",
         "image_url":"",
-        "description": "Fractal, taking inspiration from Manifold Labs' Deterministic Verification Network, is utilizing deterministic verification to create a grid of decentralized nodes to perform inference for video generation."
+        "description": "Bittensor COLaborative Destributed INcentivized Training (coldint) Subnet."
     },
     "30": {
         "bittensor_id":"wav",
