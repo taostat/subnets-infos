@@ -331,12 +331,12 @@
 
     },
    "41": {
-        "bittensor_id":"",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "bittensor_id":"nun",
+        "name": "Sportstensor",
+        "github": "https://github.com/xzistance/sportstensor",
+        "hw_requirements":"https://github.com/xzistance/sportstensor/blob/main/min_compute.yml",
+        "image_url":"https://github.com/xzistance/sportstensor/raw/main/docs/sportstensor_header.png",
+        "description": "Sportstensor is pioneering the world's most accurate decentralized sports prediction algorithm, built on the Bittensor network."
 
     },
     "42": {
@@ -349,12 +349,12 @@
 
     },
     "43": {
-        "bittensor_id":"",
-        "name": "",
-        "github": "",
+        "bittensor_id":"ayin",
+        "name": "Graphite",
+        "github": "https://github.com/GraphiteAI/Graphite-Subnet",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://github.com/GraphiteAI/Graphite-Subnet/raw/main/static/banner.png",
+        "description": "A decentralized network for solving graph optimization problems, built on Bittensor, the foremost decentralised AI network."
 
     },
     "44": {
