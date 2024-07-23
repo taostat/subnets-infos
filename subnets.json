@@ -352,7 +352,7 @@
         "bittensor_id":"ayin",
         "name": "Graphite",
         "github": "https://github.com/GraphiteAI/Graphite-Subnet",
-        "hw_requirements":"",
+        "hw_requirements":"https://github.com/GraphiteAI/Graphite-Subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/GraphiteAI/Graphite-Subnet/raw/main/static/banner.png",
         "description": "A decentralized network for solving graph optimization problems, built on Bittensor, the foremost decentralised AI network."
 
