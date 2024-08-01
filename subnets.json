@@ -273,11 +273,11 @@
     },
     "34": {
         "bittensor_id":"yod",
-        "name": "Healthi",
-        "github": "https://github.com/Healthi-Labs/healthi-subnet",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": "The primary goal of this subnet is to utilize AI models for predictive diagnostics based on electronic health records (EHRs)."
+        "name": "BitMind",
+        "github": "https://github.com/BitMind-AI/bitmind-subnet",
+        "hw_requirements":"https://github.com/BitMind-AI/bitmind-subnet/blob/main/min_compute.yml",
+        "image_url":"https://github.com/BitMind-AI/bitmind-subnet/raw/main/static/Bitmind-Logo.png",
+        "description": "Identifying AI-Generated Media with a Decentralized Framework"
     },
     "35": {
         "bittensor_id":"kaf",
