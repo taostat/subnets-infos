@@ -322,12 +322,12 @@
 
     },
     "40": {
-        "bittensor_id":"",
-        "name": "",
-        "github": "",
+        "bittensor_id":"final-nun",
+        "name": "Chunking",
+        "github": "https://github.com/VectorChat/chunking_subnet",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://github.com/VectorChat/chunking_subnet/blob/main/assets/title.png",
+        "description": "This subnet is designed to advance the field of Retrieval-Augmented Generation (RAG) by incentivizing the development and service of sophisticated chunking solutions. Specifically, the subnet aims to create, host, and serve an intelligent chunking solution that maximizes intrachunk similarity and interchunk dissimilarity. This subnet will push the frontier of chunking, making this Bittensor subnet the premier source of RAG chunking intelligence."
 
     },
    "41": {
