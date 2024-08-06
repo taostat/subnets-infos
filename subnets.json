@@ -340,12 +340,12 @@
 
     },
     "42": {
-        "bittensor_id":"",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
+        "bittensor_id":"samekh",
+        "name": "Code",
+        "github": "https://github.com/brokespace/code/",
+        "hw_requirements":"https://github.com/brokespace/code/blob/main/min_compute.yml",
         "image_url":"",
-        "description": ""
+        "description": "Gen42 leverages the Bittensor network to provide decentralized code generation services."
 
     },
     "43": {
