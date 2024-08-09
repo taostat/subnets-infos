@@ -367,12 +367,12 @@
 
     },
     "45": {
-        "bittensor_id":"",
-        "name": "",
-        "github": "",
-        "hw_requirements":"",
+        "bittensor_id":"pe",
+        "name": "Palaidn",
+        "github": "https://github.com/palaidn/palaidn_subnet",
+        "hw_requirements":"https://github.com/palaidn/palaidn_subnet/blob/main/min_compute.yml",
         "image_url":"",
-        "description": ""
+        "description": "Decentralized Fraud Detection on Bittensor"
 
     }
 
