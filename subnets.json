@@ -341,11 +341,11 @@
     },
     "42": {
         "bittensor_id":"samekh",
-        "name": "Code",
-        "github": "https://github.com/brokespace/code/",
-        "hw_requirements":"https://github.com/brokespace/code/blob/main/min_compute.yml",
+        "name": "Masa",
+        "github": "https://github.com/masa-finance/masa-bittensor",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "Gen42 leverages the Bittensor network to provide decentralized code generation services."
+        "description": "We are on a mission to revolutionize the AI landscape by providing an open, permissionless marketplace for specialized AI training data and compute resources. "
 
     },
     "43": {
