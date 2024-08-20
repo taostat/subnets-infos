@@ -368,11 +368,11 @@
     },
     "45": {
         "bittensor_id":"pe",
-        "name": "Palaidn",
-        "github": "https://github.com/palaidn/palaidn_subnet",
-        "hw_requirements":"https://github.com/palaidn/palaidn_subnet/blob/main/min_compute.yml",
+        "name": "Gen42",
+        "github": "https://github.com/brokespace/code/",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "Decentralized Fraud Detection on Bittensor"
+        "description": "Gen42 leverages the Bittensor network to provide decentralized code generation services. "
 
     }
 
