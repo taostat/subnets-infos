@@ -282,7 +282,7 @@
     "35": {
         "bittensor_id":"kaf",
         "name": "LogicNet",
-        "github": "https://github.com/LogicNet-Subnet/LogicNet-prod",
+        "github": "https://github.com/LogicNet-Subnet/LogicNet",
         "hw_requirements":"https://github.com/LogicNet-Subnet/LogicNet-prodblob/main/min_compute.yml",
         "image_url":"",
         "description": "LogicNet is a decentralized network utilizing the Bittensor protocol for advanced AI/ML model development focused on mathematics, computational thinking, and data analysis. "
