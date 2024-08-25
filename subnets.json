@@ -121,11 +121,11 @@
     },
     "15": {
         "bittensor_id":"omicron",
-        "name": "Blockchain Insights",
-        "github": "https://github.com/blockchain-insights/blockchain-data-subnet",
-        "hw_requirements":"https://github.com/blockchain-insights/blockchain-data-subnet/blob/main/min_compute.yml",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "Blockchain Insights Subnet is an innovative project focusing on transforming raw blockchain data into structured graph models. This project aims to provide comprehensive insights into various blockchain activities, including simple transactions, DeFi protocol transactions, and NFT exchanges."
+        "description": ""
     },
     "16": {
         "bittensor_id":"pi",
@@ -265,11 +265,11 @@
     },
     "33": {
         "bittensor_id":"tet",
-        "name": "Conversation Genome",
+        "name": "ReadyAI",
         "github": "https://github.com/afterpartyai/bittensor-conversation-genome-project",
         "hw_requirements":"https://github.com/afterpartyai/bittensor-conversation-genome-project/blob/main/min_compute.yml",
         "image_url":"",
-        "description": "The Conversation Genome Project (CGP) is an open-source initiative aimed at enabling personalized conversational AI by providing a comprehensive dataset of indexed and tagged conversations."
+        "description": "ReadyAI (readyai.ai) enables structured data processing at scale, democratizing access to the valuable digital commodity of structured data  – the key ingredient for high quality fine tuned models and RAG solutions."
     },
     "34": {
         "bittensor_id":"yod",
