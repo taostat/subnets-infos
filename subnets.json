@@ -121,7 +121,7 @@
     },
     "15": {
         "bittensor_id":"omicron",
-        "name": "de_val",
+        "name": "De-Val",
         "github": "https://github.com/deval-core/De-Val",
         "hw_requirements":"",
         "image_url":"",
