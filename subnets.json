@@ -113,11 +113,11 @@
     },
     "14": {
         "bittensor_id":"xi",
-        "name": "LLM Defender",
-        "github": "https://github.com/ceterum1/llm-defender-subnet",
-        "hw_requirements":"https://github.com/synapsec-ai/llm-defender-subnet/blob/main/min_compute.yml",
+        "name": "Palaidn",
+        "github": "https://github.com/palaidn/palaidn_subnet",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "The LLM Defender subnet provides Large Language Model (LLM) developers a way to decentralize the computing required to detect and prevent various attacks and exploits against LLM applications."
+        "description": "Harnessing the power of decentralization for fraud detection. "
     },
     "15": {
         "bittensor_id":"omicron",
