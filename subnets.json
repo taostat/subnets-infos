@@ -289,11 +289,11 @@
     },
     "36": {
         "bittensor_id":"lamed",
-        "name": "Human Intelligence Primitive",
-        "github": "https://github.com/HIP-Labs/HIP-Subnet",
-        "hw_requirements":"https://github.com/HIP-Labs/HIP-Subnet/blob/main/min_compute.yml",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "The HIP Subnet leverages human intelligence to perform tasks that require subjective judgment, contextual understanding, and creative problem-solving. Miners in the HIP Subnet are human participants who contribute their cognitive abilities to evaluate and provide feedback on data submitted by other subnets."
+        "description": ""
     },
     "37": {
         "bittensor_id":"mem",
@@ -305,7 +305,7 @@
     },
     "38": {
         "bittensor_id":"nun",
-        "name": "",
+        "name": "Unknown",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
