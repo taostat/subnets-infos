@@ -376,12 +376,12 @@
 
     },
     "46": {
-        "bittensor_id":"",
-        "name": "Unregistered",
-        "github": "",
+        "bittensor_id":"final-tsadi",
+        "name": "Safe Scan",
+        "github": "https://github.com/safe-scan-ai/cancer-ai/",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://github.com/safe-scan-ai/cancer-ai-3/raw/LEMSTUDI0-patch-1/DOCS/header.png",
+        "description": "Leveraging the power of AI and blockchain technology to revolutionize cancer detection"
 
     },
     "47": {
