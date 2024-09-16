@@ -210,16 +210,16 @@
     "26": {
         "bittensor_id":"bet",
         "name": "Tensor Alchemy",
-        "github": "https://github.com/Supreme-Emperor-Wang/ImageAlchemy",
+        "github": "https://github.com/TensorAlchemy/TensorAlchemy",
         "hw_requirements":"https://docs.google.com/document/d/1FzZe5EskEV0Q6BkOuVkqCrIEexzQZd_134eT74B7hPA/edit",
         "image_url":"",
-        "description": ""
+        "description": "Human Scoring and Decentralized Image Generation on Bittensor"
     },
     "27": {
         "bittensor_id":"gimel",
         "name": "Compute",
         "github": "https://github.com/neuralinternet/compute-subnet",
-        "hw_requirements":"https://github.com/neuralinternet/compute-subnet/blob/main/min_compute.yml",
+        "hw_requirements":"",
         "image_url":"",
         "description": "This repository serves as a compute-composable subnet, integrating various cloud platforms (e.g., Runpod, Lambda, AWS) into a cohesive unit. Its purpose is to enable higher-level cloud platforms to offer seamless compute composability across different underlying platforms. "
     },
@@ -305,11 +305,11 @@
     },
     "38": {
         "bittensor_id":"nun",
-        "name": "Unknown",
-        "github": "",
-        "hw_requirements":"",
+        "name": "Distributed Training Subnet",
+        "github": "https://github.com/KMFODA/DistributedTraining",
+        "hw_requirements":"https://github.com/KMFODA/DistributedTraining/blob/main/min.compute.yml",
         "image_url":"",
-        "description": ""
+        "description": "A bittensor subnetwork that incentivizes miners to provide compute, bandwidth and latency in order to train a single LLM."
 
     },
     "39": {
