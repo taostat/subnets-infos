@@ -386,7 +386,7 @@
     },
     "47": {
         "bittensor_id":"",
-        "name": "Unregistered",
+        "name": "Unknown",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -395,11 +395,11 @@
     },
     "48": {
         "bittensor_id":"",
-        "name": "Unregistered",
-        "github": "",
+        "name": "Nextplace AI",
+        "github": "https://github.com/Nickel5-Inc/Nextplace",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Nextplace AI is decentralizing intelligence around housing markets. In a space controlled by monopolies and gatekeepers, Nexplace seeks to provide a democratized network to evaluate home prices for everybody."
 
     },
     "49": {
