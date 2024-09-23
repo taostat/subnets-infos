@@ -170,7 +170,7 @@
     "21": {
         "bittensor_id":"phi",
         "name": "Omega Any-to-any",
-        "github": "https://github.com/taostat/subnets-infos/blob/main/subnets.json",
+        "github": "https://github.com/omegalabsinc/omegalabs-anytoany-bittensor",
         "hw_requirements":"",
         "image_url":"https://github.com/omegalabsinc/omegalabs-anytoany-bittensor/raw/main/galactic_a2a.png",
         "description": "OMEGA Any-to-Any is a decentralized, open-source AI project built on the Bittensor blockchain by OMEGA Labs. "
