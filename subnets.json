@@ -403,19 +403,19 @@
 
     },
     "49": {
-        "bittensor_id":"",
-        "name": "Unknown",
-        "github": "",
-        "hw_requirements":"",
+        "bittensor_id":"resh",
+        "name": "BittTranslate",
+        "github": "https://github.com/bittranslateio/bittranslate",
+        "hw_requirements":"https://github.com/bittranslateio/bittranslate/blob/main/min_compute.yml",
         "image_url":"",
         "description": ""
 
     },
     "50": {
-        "bittensor_id":"",
-        "name": "Unregistered",
-        "github": "",
-        "hw_requirements":"",
+        "bittensor_id":"shin",
+        "name": "BittAudio",
+        "github": "https://github.com/UncleTensor/BittAudio",
+        "hw_requirements":"https://github.com/UncleTensor/BittAudio/blob/main/min_compute.yml",
         "image_url":"",
         "description": ""
 
