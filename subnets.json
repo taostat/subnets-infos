@@ -417,7 +417,7 @@
         "github": "https://github.com/UncleTensor/BittAudio",
         "hw_requirements":"https://github.com/UncleTensor/BittAudio/blob/main/min_compute.yml",
         "image_url":"",
-        "description": ""
+        "description": "A decentralized platform for generating AI music and developing top text-to-music models within the Bittensor ecosystem."
 
     },
     "51": {
