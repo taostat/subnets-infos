@@ -404,11 +404,11 @@
     },
     "49": {
         "bittensor_id":"resh",
-        "name": "BittTranslate",
-        "github": "https://github.com/bittranslateio/bittranslate",
-        "hw_requirements":"https://github.com/bittranslateio/bittranslate/blob/main/min_compute.yml",
+        "name": "Sylliba",
+        "github": "https://github.com/Agent-Artificial/Sylliba-Subnet",
+        "hw_requirements":"https://github.com/Agent-Artificial/Sylliba-Subnet/blob/main/min_compute.yml",
         "image_url":"",
-        "description": ""
+        "description": "Sylliba is a revolutionary translation module designed to bridge the gap in communication across diverse languages. With the capability to translate many languages, Sylliba supports both audio and text for inputs and outputs, making it a versatile tool for global interactions."
 
     },
     "50": {
