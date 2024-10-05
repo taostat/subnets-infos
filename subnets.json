@@ -422,11 +422,11 @@
     },
     "51": {
         "bittensor_id":"",
-        "name": "Unregistered",
-        "github": "",
+        "name": "Compute Subnet",
+        "github": "https://github.com/Datura-ai/compute-subnet/t",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "This project enables a decentralized, peer-to-peer GPU rental marketplace, connecting miners who contribute GPU resources with users who need computational power."
 
     },
     "52": {
