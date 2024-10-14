@@ -385,12 +385,12 @@
 
     },
     "47": {
-        "bittensor_id":"",
-        "name": "Unknown",
-        "github": "",
-        "hw_requirements":"",
+        "bittensor_id":"tsadi",
+        "name": "CloudNamod",
+        "github": "https://github.com/eclipsevortex/CloudNomad",
+        "hw_requirements":"https://github.com/eclipsevortex/CloudNomad#machine-requirements",
         "image_url":"",
-        "description": ""
+        "description": "An Incentivized and Decentralized Storage Network"
 
     },
     "48": {
