@@ -386,7 +386,7 @@
     },
     "47": {
         "bittensor_id":"tsadi",
-        "name": "CloudNamod",
+        "name": "CloudNomad",
         "github": "https://github.com/eclipsevortex/CloudNomad",
         "hw_requirements":"https://github.com/eclipsevortex/CloudNomad#machine-requirements",
         "image_url":"",
