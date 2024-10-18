@@ -289,11 +289,11 @@
     },
     "36": {
         "bittensor_id":"lamed",
-        "name": "Unknown",
-        "github": "",
+        "name": "Identity Verification Protocol",
+        "github": "https://github.com/TatsuProject/Identity-Subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "A decentralized protocol that assigns a human score by analyzing various metrics including GitHub activity, cryptocurrency balances, and other relevant data points."
     },
     "37": {
         "bittensor_id":"mem",
