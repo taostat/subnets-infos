@@ -421,7 +421,7 @@
 
     },
     "51": {
-        "bittensor_id":"",
+        "bittensor_id":"tav",
         "name": "Compute Subnet",
         "github": "https://github.com/Datura-ai/compute-subnet",
         "hw_requirements":"",
@@ -430,12 +430,12 @@
 
     },
     "52": {
-        "bittensor_id":"",
-        "name": "Unregistered",
-        "github": "",
+        "bittensor_id":"alif",
+        "name": "Dojo",
+        "github": "https://github.com/tensorplex-labs/dojo",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://github.com/tensorplex-labs/dojo/raw/main/assets/dojo.png",
+        "description": "Crowdsource high-quality human-generated datasets."
 
     }
 
