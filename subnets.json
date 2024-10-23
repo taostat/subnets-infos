@@ -404,11 +404,11 @@
     },
     "49": {
         "bittensor_id":"resh",
-        "name": "Sylliba",
-        "github": "https://github.com/Agent-Artificial/Sylliba-Subnet",
-        "hw_requirements":"https://github.com/Agent-Artificial/Sylliba-Subnet/blob/main/min_compute.yml",
+        "name": "Hivetrain AutoML",
+        "github": "https://github.com/Hivetrain/DistributedAutoML/",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "Sylliba is a revolutionary translation module designed to bridge the gap in communication across diverse languages. With the capability to translate many languages, Sylliba supports both audio and text for inputs and outputs, making it a versatile tool for global interactions."
+        "description": "A collaborative platform dedicated to revolutionizing deep learning by automating the discovery of improved and novel neural network components."
 
     },
     "50": {
