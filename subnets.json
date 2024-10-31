@@ -9,7 +9,7 @@
     },
     "1": {
         "bittensor_id":"alpha",
-        "name": "Text Prompting",
+        "name": "Apex",
         "github": "https://github.com/macrocosm-os/prompting",
         "hw_requirements":"https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
         "image_url":"",
@@ -289,11 +289,11 @@
     },
     "36": {
         "bittensor_id":"lamed",
-        "name": "Identity Verification Protocol",
-        "github": "https://github.com/TatsuProject/Identity-Subnet",
+        "name": "Pyramid Scheme",
+        "github": "https://github.com/womboai/rule-30-solver",
         "hw_requirements":"",
         "image_url":"",
-        "description": "A decentralized protocol that assigns a human score by analyzing various metrics including GitHub activity, cryptocurrency balances, and other relevant data points."
+        "description": "The Rule 30 subnet on Bittensor aims to tackle one of complexity science's most fundamental challenges: understanding how simple rules give rise to complex, seemingly random behavior."
     },
     "37": {
         "bittensor_id":"mem",
