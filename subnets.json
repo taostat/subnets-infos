@@ -25,11 +25,11 @@
     },
     "3": {
         "bittensor_id":"gamma",
-        "name": "MyShell TTS",
-        "github": "https://github.com/myshell-ai/MyShell-TTS-Subnet",
+        "name": "Unknown",
+        "github": "",
         "hw_requirements":"",
         "image_url":"",
-        "description": "Text-to-Speech (TTS) models serve as the backbone for a wide range of applications, from virtual assistants to audiobooks. MyShell pioneers this field by open-sourcing the best TTS models, OpenVoice and MeloTTS. We believe that open-source TTS models are essential for the future of AI and are committed to building a decentralized ecosystem to support their development. Yet, the TTS landscape is still in its infancy. In this subnet, we aim to gather the wisdom of the whole open-source community to create the best open-source TTS models."
+        "description": ""
     },
     "4": {
         "bittensor_id":"delta",
@@ -386,11 +386,11 @@
     },
     "47": {
         "bittensor_id":"tsadi",
-        "name": "CloudNomad",
-        "github": "https://github.com/eclipsevortex/CloudNomad",
-        "hw_requirements":"https://github.com/eclipsevortex/CloudNomad#machine-requirements",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "An Incentivized and Decentralized Storage Network"
+        "description": ""
 
     },
     "48": {
