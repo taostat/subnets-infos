@@ -446,6 +446,33 @@
         "image_url":"",
         "description": ""
 
+    },
+    "54": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "55": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
+    },
+    "56": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
     }
 
 
