@@ -437,6 +437,15 @@
         "image_url":"https://github.com/tensorplex-labs/dojo/raw/main/assets/dojo.png",
         "description": "Crowdsource high-quality human-generated datasets."
 
+    },
+    "53": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
     }
 
 
