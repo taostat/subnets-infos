@@ -25,11 +25,11 @@
     },
     "3": {
         "bittensor_id":"gamma",
-        "name": "Unknown",
-        "github": "",
+        "name": "templar",
+        "github": "https://github.com/RaoFoundation/templar",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Templar seeks to push the boundaries of the combination incentives and distributing training infrastructure."
     },
     "4": {
         "bittensor_id":"delta",
