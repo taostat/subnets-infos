@@ -439,12 +439,12 @@
 
     },
     "53": {
-        "bittensor_id":"",
-        "name": "Unknown",
-        "github": "",
+        "bittensor_id":"ba",
+        "name": "Efficient Frontier",
+        "github": "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Our mission is to identify optimal, risk-weighted trading strategies by integrating decentralized machine learning networks with live trading data."
 
     },
     "54": {
