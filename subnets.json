@@ -386,11 +386,11 @@
     },
     "47": {
         "bittensor_id":"tsadi",
-        "name": "Unknown",
-        "github": "",
+        "name": "Condense AI",
+        "github": "https://github.com/condenses/neural-condense-subnet",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://github.com/condenses/neural-condense-subnet/raw/main/assets/images/condense-main.png",
+        "description": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time."
 
     },
     "48": {
