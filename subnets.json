@@ -449,11 +449,11 @@
     },
     "54": {
         "bittensor_id":"ta",
-        "name": "Unknown",
-        "github": "",
+        "name": "Document Understanding",
+        "github": "https://github.com/TatsuProject/Document_Understanding_Subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "The Document Understanding Subnet utilizes a multi-model architecture to enable the extraction of valuable information from diverse document formats."
 
     },
     "55": {
