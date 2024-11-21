@@ -225,11 +225,11 @@
     },
     "28": {
         "bittensor_id":"dalet",
-        "name": "Foundry S&P 500 Oracle",
+        "name": "S&P 500 Oracle",
         "github": "https://github.com/foundryservices/snpOracle",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements",
         "image_url":"https://github.com/foundryservices/snpOracle/raw/main/accelerate.png",
-        "description": "Foundry is launching Foundry S&P 500 Oracle to incentivize miners to make predictions on the S&P 500 price frequently throughout trading hours. Validators send miners a timestamp (a future time) for which the miners need to make an S&P 500 price prediction for."
+        "description": "S&P 500 Oracle to incentivize miners to make predictions on the S&P 500 price frequently throughout trading hours. Validators send miners a timestamp (a future time) for which the miners need to make an S&P 500 price prediction for."
     },
     "29": {
         "bittensor_id":"he",
