@@ -465,13 +465,13 @@
         "description": ""
 
     },
-    "56": {
+"56": {
         "bittensor_id":"djim",
-        "name": "Unknown",
-        "github": "",
+        "name": "Gradients",
+        "github": "https://github.com/rayonlabs/G.O.D",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Anyone Can Train on Bittensor - Gradients on Demand."
 
     },
     "57": {
