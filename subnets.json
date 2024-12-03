@@ -476,11 +476,11 @@
     },
     "57": {
         "bittensor_id":"ha",
-        "name": "Unknown",
-        "github": "",
+        "name": "Gaia",
+        "github": "https://github.com/Nickel5-Inc/Gaia",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Gaia is the hub of geospatial AI on Bittensor"
 
     },
     "58": {
