@@ -2,7 +2,7 @@
     "0": {
         "bittensor_id":"NA",
         "name": "Root",
-        "owner":"",
+        "owner":"5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -11,7 +11,7 @@
     "1": {
         "bittensor_id":"alpha",
         "name": "Apex",
-        "owner":"",
+        "owner":"5HCFWvRqzSHWRPecN7q8J6c7aKQnrCZTMHstPv39xL1wgDHh",
         "github": "https://github.com/macrocosm-os/prompting",
         "hw_requirements":"https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
         "image_url":"",
@@ -20,7 +20,7 @@
     "2": {
         "bittensor_id":"beta",
         "name": "Omron",
-        "owner":"",
+        "owner":"5EcYQ3W77ndrmMWdvVQusoFqY8doxfP3U2zrh7xZQiaz7avY",
         "github": "https://github.com/inference-labs-inc/omron-subnet",
         "hw_requirements":"https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
         "image_url":"",
@@ -29,7 +29,7 @@
     "3": {
         "bittensor_id":"gamma",
         "name": "Templar",
-        "owner":"",
+        "owner":"5G26HqQg8M6hfw9q84gM3udYHHymThmswRKgSGtwdcduBSos",
         "github": "https://github.com/RaoFoundation/templar",
         "hw_requirements":"",
         "image_url":"",
@@ -38,7 +38,7 @@
     "4": {
         "bittensor_id":"delta",
         "name": "Targon",
-        "owner":"",
+        "owner":"5CXGPMnq9RCCLUEvp9G2iUuabw69TSFM155UVS1S4Zmusaxv",
         "github": "https://github.com/manifold-inc/targon",
         "hw_requirements":"https://github.com/manifold-inc/targon#compute-requirements",
         "image_url":"",
@@ -47,7 +47,7 @@
     "5": {
         "bittensor_id":"epsilon",
         "name": "Open Kaito",
-        "owner":"",
+        "owner":"5CFmgJ2SQZBjgdyDvwsWhAQatEENLt6k2gWvpkjeHeMm95yv",
         "github": "https://github.com/OpenKaito/openkaito",
         "hw_requirements":"https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
         "image_url":"",
@@ -56,6 +56,7 @@
     "6": {
         "bittensor_id":"zeta",
         "name": "Infinite Games",
+        "owner":"5CfSg4e23Z3aTXvc2XZie8ZE1xkqRPoyVRFdWUuyyjGxJrMA",
         "github": "https://github.com/amedeo-gigaver/infinite_games",
         "hw_requirements":"https://github.com/amedeo-gigaver/infinite_games/blob/main/min_compute.yml",
         "image_url":"https://github.com/amedeo-gigaver/infinite_games/raw/main/docs/infinite-games.jpeg",
@@ -64,6 +65,7 @@
     "7": {
         "bittensor_id":"eta",
         "name": "Subvortex",
+        "owner":"5CiQ1cxLB1ABBJyf9FAR8CRhfcKgs4M8QaRgmHh318PKLqvb",
         "github": "https://github.com/eclipsevortex/SubVortex",
         "hw_requirements":"https://github.com/eclipsevortex/SubVortex/blob/main/min_compute.yml",
         "image_url":"",
@@ -72,6 +74,7 @@
     "8": {
         "bittensor_id":"theta",
         "name": "Proprietary Trading Network",
+         "owner":"5F6tnxzAAxbhaWRmeUmB63JEM3VXBNSmqb3AwYJVDStQjw8y",
         "github": "https://github.com/taoshidev/proprietary-trading-network",
         "hw_requirements":"https://github.com/taoshidev/proprietary-trading-network/blob/main/docs/miner.md",
         "image_url":"https://camo.githubusercontent.com/6f50fcc5d5dee8a6edfbaace39f44d187c3c3a792f62dcc7e2e4819912550e0a/68747470733a2f2f692e696d6775722e636f6d2f356854737039372e706e67",
@@ -80,6 +83,7 @@
     "9": {
         "bittensor_id":"iota",
         "name": "Pretraining",
+         "owner":"5FsbubeciqtB5Nik3umL2iD4fG8FcC9GbT9nHJfXMj4mJJZ9",
         "github": "https://github.com/macrocosm-os/pretraining",
         "hw_requirements":"https://github.com/macrocosm-os/pretraining/blob/main/min_compute.yml",
         "image_url":"",
@@ -88,7 +92,7 @@
     "10": {
         "bittensor_id":"kappa",
         "name": "Sturdy",
-        "owner":"",
+        "owner":"5EvNESR7DfSMmdwJ3crtBW1ENAhq3f99X4FCbTi1hDUNCWAW",
         "github": "https://github.com/Sturdy-Subnet/sturdy-subnet/",
         "hw_requirements":"https://github.com/Sturdy-Subnet/sturdy-subnet/blob/main/min_compute.yml",
         "image_url":"",
