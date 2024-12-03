@@ -2,6 +2,7 @@
     "0": {
         "bittensor_id":"NA",
         "name": "Root",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -10,6 +11,7 @@
     "1": {
         "bittensor_id":"alpha",
         "name": "Apex",
+        "owner":"",
         "github": "https://github.com/macrocosm-os/prompting",
         "hw_requirements":"https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
         "image_url":"",
@@ -18,6 +20,7 @@
     "2": {
         "bittensor_id":"beta",
         "name": "Omron",
+        "owner":"",
         "github": "https://github.com/inference-labs-inc/omron-subnet",
         "hw_requirements":"https://github.com/inference-labs-inc/omron-subnet?tab=readme-ov-file#run-the-miner",
         "image_url":"",
@@ -26,6 +29,7 @@
     "3": {
         "bittensor_id":"gamma",
         "name": "Templar",
+        "owner":"",
         "github": "https://github.com/RaoFoundation/templar",
         "hw_requirements":"",
         "image_url":"",
@@ -34,6 +38,7 @@
     "4": {
         "bittensor_id":"delta",
         "name": "Targon",
+        "owner":"",
         "github": "https://github.com/manifold-inc/targon",
         "hw_requirements":"https://github.com/manifold-inc/targon#compute-requirements",
         "image_url":"",
@@ -42,6 +47,7 @@
     "5": {
         "bittensor_id":"epsilon",
         "name": "Open Kaito",
+        "owner":"",
         "github": "https://github.com/OpenKaito/openkaito",
         "hw_requirements":"https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
         "image_url":"",
@@ -82,6 +88,7 @@
     "10": {
         "bittensor_id":"kappa",
         "name": "Sturdy",
+        "owner":"",
         "github": "https://github.com/Sturdy-Subnet/sturdy-subnet/",
         "hw_requirements":"https://github.com/Sturdy-Subnet/sturdy-subnet/blob/main/min_compute.yml",
         "image_url":"",
@@ -90,6 +97,7 @@
     "11": {
         "bittensor_id":"lambda",
         "name": "Dippy Roleplay",
+        "owner":"",
         "github": "https://github.com/impel-intelligence/dippy-bittensor-subnet",
         "hw_requirements":"https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/impel-intelligence/dippy-bittensor-subnet/raw/main/assests/banner.png",
@@ -98,6 +106,7 @@
     "12": {
         "bittensor_id":"mu",
         "name": "Horde",
+        "owner":"",
         "github": "https://github.com/backend-developers-ltd/ComputeHorde",
         "hw_requirements":"",
         "image_url":"https://github.com/backend-developers-ltd/ComputeHorde/raw/master/ComputeHorde.png",
@@ -106,6 +115,7 @@
     "13": {
         "bittensor_id":"nu",
         "name": "Dataverse",
+        "owner":"",
         "github": "https://github.com/macrocosm-os/data-universe/",
         "hw_requirements":"https://github.com/macrocosm-os/data-universe/blob/main/docs/miner.md#system-requirements",
         "image_url":"",
@@ -114,6 +124,7 @@
     "14": {
         "bittensor_id":"xi",
         "name": "Palaidn",
+        "owner":"",
         "github": "https://github.com/palaidn/palaidn_subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -122,6 +133,7 @@
     "15": {
         "bittensor_id":"omicron",
         "name": "De-Val",
+        "owner":"",
         "github": "https://github.com/deval-core/De-Val",
         "hw_requirements":"",
         "image_url":"",
@@ -130,6 +142,7 @@
     "16": {
         "bittensor_id":"pi",
         "name": "BitAds",
+        "owner":"",
         "github": "https://github.com/eseckft/BitAds.ai/",
         "hw_requirements":"https://github.com/eseckft/BitAds.ai/blob/main/min_compute.yml",
         "image_url":"https://github.com/eseckft/BitAds.ai/raw/main/docs/bitads.png",
@@ -138,6 +151,7 @@
     "17": {
         "bittensor_id":"rho",
         "name": "Three Gen",
+        "owner":"",
         "github": "https://github.com/404-Repo/three-gen-subnet",
         "hw_requirements":"https://github.com/404-Repo/three-gen-subnet?tab=readme-ov-file#hardware-requirements",
         "image_url":"",
@@ -146,6 +160,7 @@
     "18": {
         "bittensor_id":"sigma",
         "name": "Cortex.t",
+        "owner":"",
         "github": "https://github.com/Datura-ai/cortex.t/",
         "hw_requirements":"https://github.com/corcel-api/cortex.t/blob/main/min_compute.yml",
         "image_url":"",
@@ -154,6 +169,7 @@
     "19": {
         "bittensor_id":"tau",
         "name": "Nineteen",
+        "owner":"",
         "github": "https://github.com/namoray/nineteen/",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-19-vision#Requirements",
         "image_url":"",
@@ -162,6 +178,7 @@
     "20": {
         "bittensor_id":"upsilon",
         "name": "BitAgent",
+        "owner":"",
         "github": "https://github.com/RogueTensor/bitagent_subnet",
         "hw_requirements":"https://github.com/RogueTensor/bitagent_subnet/blob/main/min_compute.yml",
         "image_url":"",
@@ -170,6 +187,7 @@
     "21": {
         "bittensor_id":"phi",
         "name": "Omega Any-to-any",
+        "owner":"",
         "github": "https://github.com/omegalabsinc/omegalabs-anytoany-bittensor",
         "hw_requirements":"",
         "image_url":"https://github.com/omegalabsinc/omegalabs-anytoany-bittensor/raw/main/galactic_a2a.png",
@@ -178,6 +196,7 @@
     "22": {
         "bittensor_id":"chi",
         "name": "Metasearch",
+        "owner":"",
         "github": "https://github.com/surcyf123/smart-scrape/",
         "hw_requirements":"",
         "image_url":"",
@@ -186,6 +205,7 @@
     "23": {
         "bittensor_id":"psi",
         "name": "SocialTensor",
+        "owner":"",
         "github": "https://github.com/NicheTensor/NicheImage",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-23-niche-image#setup-instructions-for-miners",
         "image_url":"",
@@ -194,6 +214,7 @@
     "24": {
         "bittensor_id":"omega",
         "name": "Omega",
+        "owner":"",
         "github": "https://github.com/omegalabsinc/omegalabs-bittensor-subnet",
         "hw_requirements":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/raw/main/docs/galacticlandscape.png",
@@ -202,6 +223,7 @@
     "25": {
         "bittensor_id":"alef",
         "name": "Protein Folding",
+        "owner":"",
         "github": "https://github.com/macrocosm-os/folding",
         "hw_requirements":"https://github.com/macrocosm-os/folding/blob/main/min_compute.yml",
         "image_url":"https://github.com/macrocosm-os/folding/raw/main/assets/macrocosmos-white.png",
@@ -210,6 +232,7 @@
     "26": {
         "bittensor_id":"bet",
         "name": "Tensor Alchemy",
+        "owner":"",
         "github": "https://github.com/TensorAlchemy/TensorAlchemy",
         "hw_requirements":"https://docs.google.com/document/d/1FzZe5EskEV0Q6BkOuVkqCrIEexzQZd_134eT74B7hPA/edit",
         "image_url":"",
@@ -218,6 +241,7 @@
     "27": {
         "bittensor_id":"gimel",
         "name": "Compute",
+        "owner":"",
         "github": "https://github.com/neuralinternet/compute-subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -226,6 +250,7 @@
     "28": {
         "bittensor_id":"dalet",
         "name": "S&P 500 Oracle",
+        "owner":"",
         "github": "https://github.com/foundryservices/snpOracle",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements",
         "image_url":"https://github.com/foundryservices/snpOracle/raw/main/accelerate.png",
@@ -234,6 +259,7 @@
     "29": {
         "bittensor_id":"he",
         "name": "Coldint",
+        "owner":"",
         "github": "https://github.com/coldint",
         "hw_requirements":"https://github.com/coldint/coldint_validator/blob/main/min_compute.yml",
         "image_url":"",
@@ -242,6 +268,7 @@
     "30": {
         "bittensor_id":"wav",
         "name": "Bettensor",
+        "owner":"",
         "github": "https://github.com/Bettensor/bettensor",
         "hw_requirements":"https://github.com/Bettensor/bettensor/blob/main/min_compute.yml",
         "image_url":"https://github.com/Bettensor/bettensor/raw/main/docs/assets/bettensor-twitter-header.jpg",
@@ -250,6 +277,7 @@
     "31": {
         "bittensor_id":"zayin",
         "name": "NAS Chain",
+        "owner":"",
         "github": "https://github.com/neuronlogic/NASChain",
         "hw_requirements":"https://github.com/neuronlogic/NASChain/blob/main/min_compute.yml",
         "image_url":"https://github.com/neuronlogic/NASChain/raw/main/imgs/naschain_logo.png",
@@ -258,6 +286,7 @@
     "32": {
         "bittensor_id":"chet",
         "name": "It's AI",
+        "owner":"",
         "github": "https://github.com/It-s-AI/llm-detection",
         "hw_requirements":"https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml",
         "image_url":"",
@@ -266,6 +295,7 @@
     "33": {
         "bittensor_id":"tet",
         "name": "ReadyAI",
+        "owner":"",
         "github": "https://github.com/afterpartyai/bittensor-conversation-genome-project",
         "hw_requirements":"https://github.com/afterpartyai/bittensor-conversation-genome-project/blob/main/min_compute.yml",
         "image_url":"",
@@ -274,6 +304,7 @@
     "34": {
         "bittensor_id":"yod",
         "name": "BitMind",
+        "owner":"",
         "github": "https://github.com/BitMind-AI/bitmind-subnet",
         "hw_requirements":"https://github.com/BitMind-AI/bitmind-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/BitMind-AI/bitmind-subnet/raw/main/static/Bitmind-Logo.png",
@@ -282,6 +313,7 @@
     "35": {
         "bittensor_id":"kaf",
         "name": "LogicNet",
+        "owner":"",
         "github": "https://github.com/LogicNet-Subnet/LogicNet",
         "hw_requirements":"https://github.com/LogicNet-Subnet/LogicNet-prodblob/main/min_compute.yml",
         "image_url":"",
@@ -290,6 +322,7 @@
     "36": {
         "bittensor_id":"lamed",
         "name": "Pyramid Scheme",
+        "owner":"",
         "github": "https://github.com/womboai/rule-30-solver",
         "hw_requirements":"",
         "image_url":"",
@@ -298,6 +331,7 @@
     "37": {
         "bittensor_id":"mem",
         "name": "Finetuning",
+        "owner":"",
         "github": "https://github.com/macrocosm-os/finetuning",
         "hw_requirements":"https://github.com/macrocosm-os/finetuning/blob/main/min_compute.yml",
         "image_url":"https://github.com/macrocosm-os/finetuning/raw/main/assets/macrocosmos-white.png",
@@ -306,6 +340,7 @@
     "38": {
         "bittensor_id":"nun",
         "name": "Distributed Training Subnet",
+        "owner":"",
         "github": "https://github.com/KMFODA/DistributedTraining",
         "hw_requirements":"https://github.com/KMFODA/DistributedTraining/blob/main/min.compute.yml",
         "image_url":"",
@@ -315,6 +350,7 @@
     "39": {
         "bittensor_id":"samekh",
         "name": "EdgeMaxxing",
+        "owner":"",
         "github": "https://github.com/womboai/edge-optimization-subnet",
         "hw_requirements":"",
         "image_url":"https://camo.githubusercontent.com/8dee96c4061d56aa6940f9fa2cdb88139772459450fde3cc27876aaa0f8bbc57/68747470733a2f2f636f6e74656e742e776f6d626f2e61692f62697474656e736f722f534e33395f636f7665722e6a706567",
@@ -324,6 +360,7 @@
     "40": {
         "bittensor_id":"final-nun",
         "name": "Chunking",
+        "owner":"",
         "github": "https://github.com/VectorChat/chunking_subnet",
         "hw_requirements":"https://github.com/VectorChat/chunking_subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/VectorChat/chunking_subnet/raw/main/assets/title.png",
@@ -333,7 +370,8 @@
    "41": {
         "bittensor_id":"nun",
         "name": "Sportstensor",
-        "github": "https://github.com/sportstensor/sportstensor",
+        "owner":"",
+       "github": "https://github.com/sportstensor/sportstensor",
         "hw_requirements":"https://github.com/xzistance/sportstensor/blob/main/min_compute.yml",
         "image_url":"https://github.com/xzistance/sportstensor/raw/main/docs/sportstensor_header.png",
         "description": "Sportstensor is pioneering the world's most accurate decentralized sports prediction algorithm, built on the Bittensor network."
@@ -342,6 +380,7 @@
     "42": {
         "bittensor_id":"samekh",
         "name": "Masa",
+        "owner":"",
         "github": "https://github.com/masa-finance/masa-bittensor",
         "hw_requirements":"",
         "image_url":"",
@@ -351,6 +390,7 @@
     "43": {
         "bittensor_id":"ayin",
         "name": "Graphite",
+        "owner":"",
         "github": "https://github.com/GraphiteAI/Graphite-Subnet",
         "hw_requirements":"https://github.com/GraphiteAI/Graphite-Subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/GraphiteAI/Graphite-Subnet/raw/main/static/banner.png",
@@ -360,6 +400,7 @@
     "44": {
         "bittensor_id":"final-pe",
         "name": "Score Predict",
+        "owner":"",
         "github": "https://github.com/score-protocol/score-predict",
         "hw_requirements":"https://github.com/score-protocol/score-predict/blob/main/min_compute.yml",
         "image_url":"",
@@ -369,6 +410,7 @@
     "45": {
         "bittensor_id":"pe",
         "name": "Gen42",
+        "owner":"",
         "github": "https://github.com/brokespace/code/",
         "hw_requirements":"",
         "image_url":"",
@@ -378,6 +420,7 @@
     "46": {
         "bittensor_id":"final-tsadi",
         "name": "NeuralAI",
+        "owner":"",
         "github": "https://github.com/GoNeuralAI/neural-subnet",
         "hw_requirements":"",
         "image_url":"https://camo.githubusercontent.com/76d438c5a5024517e52c52c750f92bfcf25ff88bd2b611e3280bb86c7ea02db7/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313736333838303232383536373236393337362f313732323534313230302f3135303078353030",
@@ -387,6 +430,7 @@
     "47": {
         "bittensor_id":"tsadi",
         "name": "Condense AI",
+        "owner":"",
         "github": "https://github.com/condenses/neural-condense-subnet",
         "hw_requirements":"",
         "image_url":"https://github.com/condenses/neural-condense-subnet/raw/main/assets/images/condense-main.png",
@@ -396,6 +440,7 @@
     "48": {
         "bittensor_id":"",
         "name": "Nextplace AI",
+        "owner":"",
         "github": "https://github.com/Nickel5-Inc/Nextplace",
         "hw_requirements":"",
         "image_url":"",
@@ -405,6 +450,7 @@
     "49": {
         "bittensor_id":"resh",
         "name": "Hivetrain AutoML",
+        "owner":"",
         "github": "https://github.com/Hivetrain/DistributedAutoML/",
         "hw_requirements":"",
         "image_url":"",
@@ -414,6 +460,7 @@
     "50": {
         "bittensor_id":"shin",
         "name": "BittAudio",
+        "owner":"",
         "github": "https://github.com/UncleTensor/BittAudio",
         "hw_requirements":"https://github.com/UncleTensor/BittAudio/blob/main/min_compute.yml",
         "image_url":"",
@@ -423,6 +470,7 @@
     "51": {
         "bittensor_id":"tav",
         "name": "Compute Subnet",
+        "owner":"",
         "github": "https://github.com/Datura-ai/compute-subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -432,6 +480,7 @@
     "52": {
         "bittensor_id":"alif",
         "name": "Dojo",
+        "owner":"",
         "github": "https://github.com/tensorplex-labs/dojo",
         "hw_requirements":"",
         "image_url":"https://github.com/tensorplex-labs/dojo/raw/main/assets/dojo.png",
@@ -441,6 +490,7 @@
     "53": {
         "bittensor_id":"ba",
         "name": "Efficient Frontier",
+        "owner":"",
         "github": "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier",
         "hw_requirements":"",
         "image_url":"",
@@ -450,6 +500,7 @@
     "54": {
         "bittensor_id":"ta",
         "name": "Document Understanding",
+        "owner":"",
         "github": "https://github.com/TatsuProject/Document_Understanding_Subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -459,6 +510,7 @@
     "55": {
         "bittensor_id":"tha",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -468,6 +520,7 @@
 "56": {
         "bittensor_id":"djim",
         "name": "Gradients",
+        "owner":"",
         "github": "https://github.com/rayonlabs/G.O.D",
         "hw_requirements":"",
         "image_url":"",
@@ -477,6 +530,7 @@
     "57": {
         "bittensor_id":"ha",
         "name": "Gaia",
+        "owner":"",
         "github": "https://github.com/Nickel5-Inc/Gaia",
         "hw_requirements":"",
         "image_url":"",
@@ -486,6 +540,7 @@
     "58": {
         "bittensor_id":"rro",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -495,6 +550,7 @@
     "59": {
         "bittensor_id":"dal",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -504,6 +560,7 @@
     "60": {
         "bittensor_id":"dhal",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -513,6 +570,7 @@
     "61": {
         "bittensor_id":"ra",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -522,6 +580,7 @@
     "62": {
         "bittensor_id":"zai",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -531,6 +590,7 @@
     "63": {
         "bittensor_id":"sin",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -540,6 +600,7 @@
     "64": {
         "bittensor_id":"shin",
         "name": "Unknown",
+        "owner":"",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
