@@ -191,7 +191,7 @@
     "21": {
         "bittensor_id":"phi",
         "name": "Omega Any-to-any",
-        "owner":"",
+        "owner":"5GsHpHeCGhxstoEEZTR64VUashnDP4n7ir7LbNdRfXpkMU7R",
         "github": "https://github.com/omegalabsinc/omegalabs-anytoany-bittensor",
         "hw_requirements":"",
         "image_url":"https://github.com/omegalabsinc/omegalabs-anytoany-bittensor/raw/main/galactic_a2a.png",
@@ -200,7 +200,7 @@
     "22": {
         "bittensor_id":"chi",
         "name": "Metasearch",
-        "owner":"",
+        "owner":"5HZ3rviPkBERT9H5dE5km4hML1PCyjLo5yX8B3Y4fvamBwxw",
         "github": "https://github.com/surcyf123/smart-scrape/",
         "hw_requirements":"",
         "image_url":"",
@@ -209,7 +209,7 @@
     "23": {
         "bittensor_id":"psi",
         "name": "SocialTensor",
-        "owner":"",
+        "owner":"5GvTa4JUKbUHqeJH8YLUDaV7jHChrfUy4n5zWrcCiU7bySoc",
         "github": "https://github.com/NicheTensor/NicheImage",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-23-niche-image#setup-instructions-for-miners",
         "image_url":"",
@@ -218,7 +218,7 @@
     "24": {
         "bittensor_id":"omega",
         "name": "Omega",
-        "owner":"",
+        "owner":"5FpX2DN3A38JzXfEDZwBsDhCM527L6BDPi6MKGeXvGxFPipx",
         "github": "https://github.com/omegalabsinc/omegalabs-bittensor-subnet",
         "hw_requirements":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/omegalabsinc/omegalabs-bittensor-subnet/raw/main/docs/galacticlandscape.png",
@@ -227,7 +227,7 @@
     "25": {
         "bittensor_id":"alef",
         "name": "Protein Folding",
-        "owner":"",
+        "owner":"5F6aRdsBHajN2NhZHBTB6ibBFu7YuZZEWruWzB8x6B6GiZ4D",
         "github": "https://github.com/macrocosm-os/folding",
         "hw_requirements":"https://github.com/macrocosm-os/folding/blob/main/min_compute.yml",
         "image_url":"https://github.com/macrocosm-os/folding/raw/main/assets/macrocosmos-white.png",
@@ -236,7 +236,7 @@
     "26": {
         "bittensor_id":"bet",
         "name": "Tensor Alchemy",
-        "owner":"",
+        "owner":"5EbrhAoHNxgpPkTdVtEr3mvSudCYc1E7P5oHwPuxA2hvmV3u",
         "github": "https://github.com/TensorAlchemy/TensorAlchemy",
         "hw_requirements":"https://docs.google.com/document/d/1FzZe5EskEV0Q6BkOuVkqCrIEexzQZd_134eT74B7hPA/edit",
         "image_url":"",
@@ -245,7 +245,7 @@
     "27": {
         "bittensor_id":"gimel",
         "name": "Compute",
-        "owner":"",
+        "owner":"5Cyfk5Jjee6uCafjZyUUjtKd7Q4qh1yJ48Ts7bkT9xXaDqe1",
         "github": "https://github.com/neuralinternet/compute-subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -254,7 +254,7 @@
     "28": {
         "bittensor_id":"dalet",
         "name": "S&P 500 Oracle",
-        "owner":"",
+        "owner":"5E9fVY1jexCNVMjd2rdBsAxeamFGEMfzHcyTn2fHgdHeYc5p",
         "github": "https://github.com/foundryservices/snpOracle",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-28-sp-500-oracle#compute-requirements",
         "image_url":"https://github.com/foundryservices/snpOracle/raw/main/accelerate.png",
@@ -263,7 +263,7 @@
     "29": {
         "bittensor_id":"he",
         "name": "Coldint",
-        "owner":"",
+        "owner":"5HHHHHzgLnYRvnKkHd45cRUDMHXTSwx7MjUzxBrKbY4JfZWn",
         "github": "https://github.com/coldint",
         "hw_requirements":"https://github.com/coldint/coldint_validator/blob/main/min_compute.yml",
         "image_url":"",
@@ -272,7 +272,7 @@
     "30": {
         "bittensor_id":"wav",
         "name": "Bettensor",
-        "owner":"",
+        "owner":"5DcErZoVeG7ZShXwKFgJURuGXmdAVwmYzyvLAgpPjrPznDMB",
         "github": "https://github.com/Bettensor/bettensor",
         "hw_requirements":"https://github.com/Bettensor/bettensor/blob/main/min_compute.yml",
         "image_url":"https://github.com/Bettensor/bettensor/raw/main/docs/assets/bettensor-twitter-header.jpg",
@@ -281,7 +281,7 @@
     "31": {
         "bittensor_id":"zayin",
         "name": "NAS Chain",
-        "owner":"",
+        "owner":"5CwLjwPdkwM9Rhia5VA5WSDVsL5FKWH24j5Tb96WnuUnqcst",
         "github": "https://github.com/neuronlogic/NASChain",
         "hw_requirements":"https://github.com/neuronlogic/NASChain/blob/main/min_compute.yml",
         "image_url":"https://github.com/neuronlogic/NASChain/raw/main/imgs/naschain_logo.png",
@@ -290,7 +290,7 @@
     "32": {
         "bittensor_id":"chet",
         "name": "It's AI",
-        "owner":"",
+        "owner":"5DWgkCSvq4brWSNLDU9FBgTk1ZpAQ2y6t3ky97CvEVuS9Qad",
         "github": "https://github.com/It-s-AI/llm-detection",
         "hw_requirements":"https://github.com/It-s-AI/llm-detection/blob/main/min_compute.yml",
         "image_url":"",
@@ -299,7 +299,7 @@
     "33": {
         "bittensor_id":"tet",
         "name": "ReadyAI",
-        "owner":"",
+        "owner":"5HinUfk5SqBUAbkMtgdNoum3VJvwrLgdvwW5sbXA1UPYZ8uB",
         "github": "https://github.com/afterpartyai/bittensor-conversation-genome-project",
         "hw_requirements":"https://github.com/afterpartyai/bittensor-conversation-genome-project/blob/main/min_compute.yml",
         "image_url":"",
@@ -308,7 +308,7 @@
     "34": {
         "bittensor_id":"yod",
         "name": "BitMind",
-        "owner":"",
+        "owner":"5DthmKBR83sUdudSfgFnsxBkTYtYTFLJUgovNfb1TSKVLiTH",
         "github": "https://github.com/BitMind-AI/bitmind-subnet",
         "hw_requirements":"https://github.com/BitMind-AI/bitmind-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/BitMind-AI/bitmind-subnet/raw/main/static/Bitmind-Logo.png",
@@ -317,7 +317,7 @@
     "35": {
         "bittensor_id":"kaf",
         "name": "LogicNet",
-        "owner":"",
+        "owner":"5EsmkLf4VnpgNM31syMjAWsUrQdW2Yu5xzWbv6oDQydP9vVx",
         "github": "https://github.com/LogicNet-Subnet/LogicNet",
         "hw_requirements":"https://github.com/LogicNet-Subnet/LogicNet-prodblob/main/min_compute.yml",
         "image_url":"",
@@ -326,7 +326,7 @@
     "36": {
         "bittensor_id":"lamed",
         "name": "Pyramid Scheme",
-        "owner":"",
+        "owner":"5C8aDHZtpBJr4WGbvzJL2MBckeDYg1kZXTEG5S47oWEtsZUE",
         "github": "https://github.com/womboai/rule-30-solver",
         "hw_requirements":"",
         "image_url":"",
@@ -335,7 +335,7 @@
     "37": {
         "bittensor_id":"mem",
         "name": "Finetuning",
-        "owner":"",
+        "owner":"5DXqqdrvu5FK3dASRVTCdGPZKx4Q9nkAZZSmibKG6PEEeW4j",
         "github": "https://github.com/macrocosm-os/finetuning",
         "hw_requirements":"https://github.com/macrocosm-os/finetuning/blob/main/min_compute.yml",
         "image_url":"https://github.com/macrocosm-os/finetuning/raw/main/assets/macrocosmos-white.png",
@@ -344,7 +344,7 @@
     "38": {
         "bittensor_id":"nun",
         "name": "Distributed Training Subnet",
-        "owner":"",
+        "owner":"5EFJ7mEVyjxT3iXqxuHyMMuGgJKFt85tb5s4vEvnCTpSoP3w",
         "github": "https://github.com/KMFODA/DistributedTraining",
         "hw_requirements":"https://github.com/KMFODA/DistributedTraining/blob/main/min.compute.yml",
         "image_url":"",
@@ -354,7 +354,7 @@
     "39": {
         "bittensor_id":"samekh",
         "name": "EdgeMaxxing",
-        "owner":"",
+        "owner":"5G3qVaXzKMPDm5AJ3dpzbpUC27kpccBvDwzSWXrq8M6qMmbC",
         "github": "https://github.com/womboai/edge-optimization-subnet",
         "hw_requirements":"",
         "image_url":"https://camo.githubusercontent.com/8dee96c4061d56aa6940f9fa2cdb88139772459450fde3cc27876aaa0f8bbc57/68747470733a2f2f636f6e74656e742e776f6d626f2e61692f62697474656e736f722f534e33395f636f7665722e6a706567",
@@ -364,7 +364,7 @@
     "40": {
         "bittensor_id":"final-nun",
         "name": "Chunking",
-        "owner":"",
+        "owner":"5F9Qvcz22Fwq4cm58o2bShiL6n8BnJmhqXB1cispBpqRfN6w",
         "github": "https://github.com/VectorChat/chunking_subnet",
         "hw_requirements":"https://github.com/VectorChat/chunking_subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/VectorChat/chunking_subnet/raw/main/assets/title.png",
