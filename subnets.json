@@ -101,7 +101,7 @@
     "11": {
         "bittensor_id":"lambda",
         "name": "Dippy Roleplay",
-        "owner":"",
+        "owner":"5EtM9iXMAYRsmt6aoQAoWNDX6yaBnjhmnEQhWKv8HpwkVtML",
         "github": "https://github.com/impel-intelligence/dippy-bittensor-subnet",
         "hw_requirements":"https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/impel-intelligence/dippy-bittensor-subnet/raw/main/assests/banner.png",
@@ -110,7 +110,7 @@
     "12": {
         "bittensor_id":"mu",
         "name": "Horde",
-        "owner":"",
+        "owner":"5ELzhHvgUqmnAYs74vFWjMMehXNeHkRtkreAa3g8QQS96PCp",
         "github": "https://github.com/backend-developers-ltd/ComputeHorde",
         "hw_requirements":"",
         "image_url":"https://github.com/backend-developers-ltd/ComputeHorde/raw/master/ComputeHorde.png",
@@ -119,7 +119,7 @@
     "13": {
         "bittensor_id":"nu",
         "name": "Dataverse",
-        "owner":"",
+        "owner":"5HBswBt1A9Ahx6U76abXXGd7VmabmCNBGhSK2vrP71GSxtgZ",
         "github": "https://github.com/macrocosm-os/data-universe/",
         "hw_requirements":"https://github.com/macrocosm-os/data-universe/blob/main/docs/miner.md#system-requirements",
         "image_url":"",
@@ -128,7 +128,7 @@
     "14": {
         "bittensor_id":"xi",
         "name": "Palaidn",
-        "owner":"",
+        "owner":"5GR5TWbbD2Du1DuokpU6gQzKEjNwUWiB6aewjdAn8nREdiMF",
         "github": "https://github.com/palaidn/palaidn_subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -137,7 +137,7 @@
     "15": {
         "bittensor_id":"omicron",
         "name": "De-Val",
-        "owner":"",
+        "owner":"5DLd6s3A9xLRapjnM54drzpn3K4qEEd73XJ2rz66L6J2xWD8",
         "github": "https://github.com/deval-core/De-Val",
         "hw_requirements":"",
         "image_url":"",
@@ -146,7 +146,7 @@
     "16": {
         "bittensor_id":"pi",
         "name": "BitAds",
-        "owner":"",
+        "owner":"5DnhT8EDV3ufCVHHfi7GFD4Z93MKNwWPwVZqh5o7UPYuwn6d",
         "github": "https://github.com/eseckft/BitAds.ai/",
         "hw_requirements":"https://github.com/eseckft/BitAds.ai/blob/main/min_compute.yml",
         "image_url":"https://github.com/eseckft/BitAds.ai/raw/main/docs/bitads.png",
@@ -155,7 +155,7 @@
     "17": {
         "bittensor_id":"rho",
         "name": "Three Gen",
-        "owner":"",
+        "owner":"5E7a4a7QETrNjoZ2SbVSJMaavrQeyTEaHgjBPDUDxBKjUaMZ",
         "github": "https://github.com/404-Repo/three-gen-subnet",
         "hw_requirements":"https://github.com/404-Repo/three-gen-subnet?tab=readme-ov-file#hardware-requirements",
         "image_url":"",
@@ -164,7 +164,7 @@
     "18": {
         "bittensor_id":"sigma",
         "name": "Cortex.t",
-        "owner":"",
+        "owner":"5G9FYbXLvGTvGEgYF9tm56oW7RzkSFRCduhJeQq8EML54BXs",
         "github": "https://github.com/Datura-ai/cortex.t/",
         "hw_requirements":"https://github.com/corcel-api/cortex.t/blob/main/min_compute.yml",
         "image_url":"",
@@ -173,7 +173,7 @@
     "19": {
         "bittensor_id":"tau",
         "name": "Nineteen",
-        "owner":"",
+        "owner":"5CFJNoUYbdw9NvU2MuvQuxG88BWBKYbEQPxg1sVieck16TRq",
         "github": "https://github.com/namoray/nineteen/",
         "hw_requirements":"https://docs.taostats.io/docs/subnet-19-vision#Requirements",
         "image_url":"",
@@ -182,7 +182,7 @@
     "20": {
         "bittensor_id":"upsilon",
         "name": "BitAgent",
-        "owner":"",
+        "owner":"5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
         "github": "https://github.com/RogueTensor/bitagent_subnet",
         "hw_requirements":"https://github.com/RogueTensor/bitagent_subnet/blob/main/min_compute.yml",
         "image_url":"",
