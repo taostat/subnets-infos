@@ -374,7 +374,7 @@
    "41": {
         "bittensor_id":"nun",
         "name": "Sportstensor",
-        "owner":"",
+        "owner":"5FCSevLkofmKZRixMawp6jyyjBty1AeSCLa7N5Fv892DYkXX",
        "github": "https://github.com/sportstensor/sportstensor",
         "hw_requirements":"https://github.com/xzistance/sportstensor/blob/main/min_compute.yml",
         "image_url":"https://github.com/xzistance/sportstensor/raw/main/docs/sportstensor_header.png",
@@ -384,7 +384,7 @@
     "42": {
         "bittensor_id":"samekh",
         "name": "Masa",
-        "owner":"",
+        "owner":"5Gbdb5s2WrRaFXTgMUiVNBKACe3cgSLwZNyK2Vwvjfvf6jUJ",
         "github": "https://github.com/masa-finance/masa-bittensor",
         "hw_requirements":"",
         "image_url":"",
@@ -394,7 +394,7 @@
     "43": {
         "bittensor_id":"ayin",
         "name": "Graphite",
-        "owner":"",
+        "owner":"5HjMs5JDrLH3Hknmfm1gDq7nFYAv6M7t9v3EWMctSRXJS9HC",
         "github": "https://github.com/GraphiteAI/Graphite-Subnet",
         "hw_requirements":"https://github.com/GraphiteAI/Graphite-Subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/GraphiteAI/Graphite-Subnet/raw/main/static/banner.png",
@@ -404,7 +404,7 @@
     "44": {
         "bittensor_id":"final-pe",
         "name": "Score Predict",
-        "owner":"",
+        "owner":"5FsREvyUXSZWYRqVyQLDdpYmZZPnkhZyW6HjooozKP1nQkwu",
         "github": "https://github.com/score-protocol/score-predict",
         "hw_requirements":"https://github.com/score-protocol/score-predict/blob/main/min_compute.yml",
         "image_url":"",
@@ -414,7 +414,7 @@
     "45": {
         "bittensor_id":"pe",
         "name": "Gen42",
-        "owner":"",
+        "owner":"5FbcZiAHA75i2bPVrF7wa9mFaxV1eM27HR63kJtbpb8spvmf",
         "github": "https://github.com/brokespace/code/",
         "hw_requirements":"",
         "image_url":"",
@@ -424,7 +424,7 @@
     "46": {
         "bittensor_id":"final-tsadi",
         "name": "NeuralAI",
-        "owner":"",
+        "owner":"5Ek83SLwZi1P6s3E3kCfmxZJ5HHVepDsdpxJERfvpiopG5jz",
         "github": "https://github.com/GoNeuralAI/neural-subnet",
         "hw_requirements":"",
         "image_url":"https://camo.githubusercontent.com/76d438c5a5024517e52c52c750f92bfcf25ff88bd2b611e3280bb86c7ea02db7/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313736333838303232383536373236393337362f313732323534313230302f3135303078353030",
@@ -434,7 +434,7 @@
     "47": {
         "bittensor_id":"tsadi",
         "name": "Condense AI",
-        "owner":"",
+        "owner":"5CS2niAKFcmvE3i2Lb9ukR66Enkn26ygievde3dMepJ9ha9x",
         "github": "https://github.com/condenses/neural-condense-subnet",
         "hw_requirements":"",
         "image_url":"https://github.com/condenses/neural-condense-subnet/raw/main/assets/images/condense-main.png",
@@ -444,7 +444,7 @@
     "48": {
         "bittensor_id":"",
         "name": "Nextplace AI",
-        "owner":"",
+        "owner":"5D2Qc9ud7vTJrPzk8mT1ruY8oV8UaDP3ttepD7zVNNi943ch",
         "github": "https://github.com/Nickel5-Inc/Nextplace",
         "hw_requirements":"",
         "image_url":"",
@@ -454,7 +454,7 @@
     "49": {
         "bittensor_id":"resh",
         "name": "Hivetrain AutoML",
-        "owner":"",
+        "owner":"5C6z6jXv1iuwKMwfuWrZgPrrtxQZh7YKYThLXoMA2VgFG8w2",
         "github": "https://github.com/Hivetrain/DistributedAutoML/",
         "hw_requirements":"",
         "image_url":"",
@@ -464,7 +464,7 @@
     "50": {
         "bittensor_id":"shin",
         "name": "BittAudio",
-        "owner":"",
+        "owner":"5HgrQSNzy7Jq2kjVhT9LHmtcFuQzrTTzpAYcd4uAFumuwAyj",
         "github": "https://github.com/UncleTensor/BittAudio",
         "hw_requirements":"https://github.com/UncleTensor/BittAudio/blob/main/min_compute.yml",
         "image_url":"",
@@ -474,7 +474,7 @@
     "51": {
         "bittensor_id":"tav",
         "name": "Compute Subnet",
-        "owner":"",
+        "owner":"5FqACMtcegZxxopgu1g7TgyrnyD8skurr9QDPLPhxNQzsThe",
         "github": "https://github.com/Datura-ai/compute-subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -484,7 +484,7 @@
     "52": {
         "bittensor_id":"alif",
         "name": "Dojo",
-        "owner":"",
+        "owner":"5EgfUiH6A99dhihMzp7eMM8UDkvmFjCWgM5gnpBN8UgLrVuz",
         "github": "https://github.com/tensorplex-labs/dojo",
         "hw_requirements":"",
         "image_url":"https://github.com/tensorplex-labs/dojo/raw/main/assets/dojo.png",
@@ -494,7 +494,7 @@
     "53": {
         "bittensor_id":"ba",
         "name": "Efficient Frontier",
-        "owner":"",
+        "owner":"5F2HTUqtk9VWQwXkkUX9oFSXUkAib74qw7s3W7KyZP88AmYe",
         "github": "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier",
         "hw_requirements":"",
         "image_url":"",
@@ -504,7 +504,7 @@
     "54": {
         "bittensor_id":"ta",
         "name": "Document Understanding",
-        "owner":"",
+        "owner":"5EZxb7YGiyMxD18Nv6hk9wi7NkhasgRMN1ssXSMqPcPFjauW",
         "github": "https://github.com/TatsuProject/Document_Understanding_Subnet",
         "hw_requirements":"",
         "image_url":"",
@@ -514,7 +514,7 @@
     "55": {
         "bittensor_id":"tha",
         "name": "Unknown",
-        "owner":"",
+        "owner":"5DkRocgbM16F41BLGs3UMoqwKdrbmkzQiUHgnzLHXrV9frob",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -524,7 +524,7 @@
 "56": {
         "bittensor_id":"djim",
         "name": "Gradients",
-        "owner":"",
+        "owner":"5G77DNXrfAxbvi53p3mh88kRMySBcJsv9j9cH4KU6ALWXgQF",
         "github": "https://github.com/rayonlabs/G.O.D",
         "hw_requirements":"",
         "image_url":"",
@@ -534,7 +534,7 @@
     "57": {
         "bittensor_id":"ha",
         "name": "Gaia",
-        "owner":"",
+        "owner":"5GmhjCqDTsRcKqPFw4FDig8tVBfFGNrwP8ywe5En5hnELwDQ",
         "github": "https://github.com/Nickel5-Inc/Gaia",
         "hw_requirements":"",
         "image_url":"",
@@ -544,7 +544,7 @@
     "58": {
         "bittensor_id":"rro",
         "name": "Unknown",
-        "owner":"",
+        "owner":"5DyEYZ2pB3bP6BN8Xpo5ova3TEPiT82j5oHXqgQ8csKE9stH",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
@@ -554,7 +554,7 @@
     "59": {
         "bittensor_id":"dal",
         "name": "Unknown",
-        "owner":"",
+        "owner":"5FH9AQM4kqbkdC9jyV5FrdEWVYt41nkhFstop7Vhyfb9ZsXt",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
