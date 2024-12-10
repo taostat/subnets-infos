@@ -543,12 +543,12 @@
     },
     "58": {
         "bittensor_id":"rro",
-        "name": "Unknown",
+        "name": "Dippy Speech",
         "owner":"5DyEYZ2pB3bP6BN8Xpo5ova3TEPiT82j5oHXqgQ8csKE9stH",
-        "github": "",
+        "github": "https://github.com/impel-intelligence/dippy-speech-subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Developing the world’s most advanced open-source Speech model for immersive, lifelike interactions."
 
     },
     "59": {
