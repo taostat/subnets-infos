@@ -553,12 +553,12 @@
     },
     "59": {
         "bittensor_id":"dal",
-        "name": "Unknown",
+        "name": "Agent Arena by Masa",
         "owner":"5FH9AQM4kqbkdC9jyV5FrdEWVYt41nkhFstop7Vhyfb9ZsXt",
-        "github": "",
+        "github": "https://github.com/masa-finance/agent-arena-subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Welcome to Agent Arena by Masa - the first competitive agent ecosystem where market forces and real engagement drive the evolution of sentient AI agents."
 
     },
     "60": {
