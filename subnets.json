@@ -30,7 +30,7 @@
         "bittensor_id":"gamma",
         "name": "Templar",
         "owner":"5G26HqQg8M6hfw9q84gM3udYHHymThmswRKgSGtwdcduBSos",
-        "github": "https://github.com/RaoFoundation/templar",
+        "github": "https://github.com/tplr-ai/templar",
         "hw_requirements":"",
         "image_url":"",
         "description": "Templar seeks to push the boundaries of the combination incentives and distributing training infrastructure."
