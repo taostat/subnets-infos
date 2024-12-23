@@ -583,12 +583,12 @@
     },
     "62": {
         "bittensor_id":"zai",
-        "name": "Unknown",
-        "owner":"",
-        "github": "",
+        "name": "Agentao",
+        "owner":"5EsNzkZ3DwDqCsYmSJDeGXX51dQJd5broUCH6dbDjvkTcicD",
+        "github": "https://github.com/taoagents/agentao",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Agentao is an initiative to create a decentralized, self-sustaining marketplace of autonomous software engineering agents. Our mission is to incentivize autonomous SWE agents to tackle real-world software problems, solving increasingly complex and general tasks."
 
     },
     "63": {
