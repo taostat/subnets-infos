@@ -603,12 +603,12 @@
     },
     "64": {
         "bittensor_id":"shin",
-        "name": "Unknown",
+        "name": "chutes",
         "owner":"",
-        "github": "",
+        "github": "https://github.com/rayonlabs/chutes",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Serverless AI compute. Run any AI model"
 
     }
 
