@@ -503,12 +503,12 @@
     },
     "54": {
         "bittensor_id":"ta",
-        "name": "Document Understanding",
-        "owner":"5EZxb7YGiyMxD18Nv6hk9wi7NkhasgRMN1ssXSMqPcPFjauW",
-        "github": "https://github.com/TatsuProject/Document_Understanding_Subnet",
+        "name": "Safe Scan",
+        "owner":"5HiqUGVbJQwG5jiNNaHCGcpV2RQ85HCbkjF9y1do6EX1ecFA",
+        "github": "https://github.com/safe-scan-ai/cancer-ai",
         "hw_requirements":"",
         "image_url":"",
-        "description": "The Document Understanding Subnet utilizes a multi-model architecture to enable the extraction of valuable information from diverse document formats."
+        "description": "Leveraging the power of AI and blockchain technology to revolutionize cancer detection."
 
     },
     "55": {
