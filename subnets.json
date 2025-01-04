@@ -513,12 +513,12 @@
     },
     "55": {
         "bittensor_id":"tha",
-        "name": "Brainlock",
-        "owner":"5EppTTo2go716yg9dShocoFk71THWXCk12hwd1xwbotc3Q87",
-        "github": "https://github.com/brainlock-ai/55",
+        "name": "Unknown",
+        "owner":"5EcevSxSRrkpyWEsVFkTaFSbEctUBiZMakXiwkyyELmVqfWB",
+        "github": "",
         "hw_requirements":"",
         "image_url":"",
-        "description": "Fully Homomorphic Encryption (FHE)-based inference on machine learning (ML) models."
+        "description": ""
 
     },
 "56": {
