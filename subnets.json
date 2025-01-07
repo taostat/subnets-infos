@@ -503,12 +503,12 @@
     },
     "54": {
         "bittensor_id":"ta",
-        "name": "Safe Scan",
-        "owner":"5HiqUGVbJQwG5jiNNaHCGcpV2RQ85HCbkjF9y1do6EX1ecFA",
-        "github": "https://github.com/safe-scan-ai/cancer-ai",
+        "name": "Unknown",
+        "owner":"",
+        "github": "",
         "hw_requirements":"",
         "image_url":"",
-        "description": "Leveraging the power of AI and blockchain technology to revolutionize cancer detection."
+        "description": ""
 
     },
     "55": {
