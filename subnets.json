@@ -503,12 +503,12 @@
     },
     "54": {
         "bittensor_id":"ta",
-        "name": "Unknown",
-        "owner":"",
-        "github": "",
+        "name": "Brainlock",
+        "owner":"5EppTTo2go716yg9dShocoFk71THWXCk12hwd1xwbotc3Q87",
+        "github": "https://github.com/brainlock-ai/fhe-subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Brainlock uses Fully Homomorphic Encryption (FHE) to enable secure, privacy-preserving machine learning inference by performing computations directly on encrypted data without exposing sensitive information."
 
     },
     "55": {
