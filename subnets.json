@@ -181,7 +181,7 @@
     },
     "20": {
         "bittensor_id":"upsilon",
-        "name": "BitAgent",
+        "name": "BitAgent - Rizzo",
         "owner":"5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
         "github": "https://github.com/RogueTensor/bitagent_subnet",
         "hw_requirements":"https://github.com/RogueTensor/bitagent_subnet/blob/main/min_compute.yml",
@@ -413,7 +413,7 @@
     },
     "45": {
         "bittensor_id":"pe",
-        "name": "Gen42",
+        "name": "Gen42 - Rizzo",
         "owner":"5FbcZiAHA75i2bPVrF7wa9mFaxV1eM27HR63kJtbpb8spvmf",
         "github": "https://github.com/brokespace/code/",
         "hw_requirements":"",
