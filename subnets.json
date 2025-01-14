@@ -403,7 +403,7 @@
     },
     "44": {
         "bittensor_id":"final-pe",
-        "name": "Score Predict",
+        "name": "Score",
         "owner":"5FsREvyUXSZWYRqVyQLDdpYmZZPnkhZyW6HjooozKP1nQkwu",
         "github": "https://github.com/score-protocol/score-predict",
         "hw_requirements":"https://github.com/score-protocol/score-predict/blob/main/min_compute.yml",
