@@ -513,12 +513,12 @@
     },
     "55": {
         "bittensor_id":"tha",
-        "name": "Unknown",
-        "owner":"5EcevSxSRrkpyWEsVFkTaFSbEctUBiZMakXiwkyyELmVqfWB",
-        "github": "",
+        "name": "Precog",
+        "owner":"",
+        "github": "https://github.com/coinmetrics/precog",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Precog is an AI-powered high-frequency $BTC price forecasting subnet underpinned by Coin Metrics’ comprehensive and trusted data. Miners produce financial intelligence utilizing the same datasets which power the world's largest crypto ETF issuers."
 
     },
 "56": {
