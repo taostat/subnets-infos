@@ -503,12 +503,12 @@
     },
     "54": {
         "bittensor_id":"ta",
-        "name": "Brainlock",
-        "owner":"5EppTTo2go716yg9dShocoFk71THWXCk12hwd1xwbotc3Q87",
-        "github": "https://github.com/brainlock-ai/fhe-subnet",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": "Brainlock uses Fully Homomorphic Encryption (FHE) to enable secure, privacy-preserving machine learning inference by performing computations directly on encrypted data without exposing sensitive information."
+        "name": "WebGenieAI",
+        "owner":"5GENieJS4p6oKVPbDoXhAo46E38hxR7MxvbgMpJE4bf6xCb3",
+        "github": "https://github.com/web-genie-ai/web-genie-ai",
+        "hw_requirements":"https://github.com/web-genie-ai/web-genie-ai/blob/main/min_compute.yml",
+        "image_url":"https://raw.githubusercontent.com/web-genie-ai/web-genie-ai/f7efa10d3eaadded7757a25510f10f628a16361c/Web-Genie-logo.png",
+        "description": "WebGenieAI Subnet is a pioneering Bittensor-based subnet designed to revolutionize project generation through advanced AI models. WebGenieAI aims to transform diverse prompts—ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs."
 
     },
     "55": {
