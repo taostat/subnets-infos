@@ -463,12 +463,12 @@
     },
     "50": {
         "bittensor_id":"shin",
-        "name": "BittAudio",
+        "name": "Synth",
         "owner":"5HgrQSNzy7Jq2kjVhT9LHmtcFuQzrTTzpAYcd4uAFumuwAyj",
-        "github": "https://github.com/UncleTensor/BittAudio",
-        "hw_requirements":"https://github.com/UncleTensor/BittAudio/blob/main/min_compute.yml",
+        "github": "https://github.com/mode-network/synth-subnet",
+        "hw_requirements":"",
         "image_url":"",
-        "description": "A decentralized platform for generating AI music and developing top text-to-music models within the Bittensor ecosystem.."
+        "description": "Synth is a Bittensor Subnet, developed by Mode, leverages Bittensor’s decentralized intelligence network to create the world's most powerful synthetic data for price forecasting. Such price forecasting will be used to power the agentic economy onchain. Unlike traditional price prediction systems that focus on single-point forecasts, Synth specializes in capturing the full distribution of possible price movements and their associated probabilities, to build the most accurate synthetic data in the world, starting with BTC."
 
     },
     "51": {
