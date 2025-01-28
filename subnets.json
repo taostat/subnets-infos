@@ -563,13 +563,12 @@
     },
     "60": {
         "bittensor_id":"dhal",
-        "name": "Unknown",
-        "owner":"",
-        "github": "",
+        "name": "Bitsec",
+        "owner":"5CXLwkK1Scd1uiMUrXYjJUTTPxqqyH2FTJQNLp9uXQhA9rhR",
+        "github": "https://github.com/Bitsec-AI/subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
-
+        "description": "Bitsec is an ecosystem for AI-powered code vulnerability detection."
     },
     "61": {
         "bittensor_id":"ra",
