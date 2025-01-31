@@ -592,12 +592,12 @@
     },
     "63": {
         "bittensor_id":"sin",
-        "name": "Unknown",
-        "owner":"",
-        "github": "",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "name": "Finesτ Daτa",
+        "owner":"Elevonix Labs",
+        "github": "https://github.com/elevonix-labs/finest-data-subnet",
+        "hw_requirements":"https://github.com/elevonix-labs/finest-data-subnet/blob/main/min_compute.yml",
+        "image_url":"https://github.com/elevonix-labs/finest-data-subnet/blob/main/docs/GitHub%20Banner.jpg",
+        "description": "The Finesτ Daτa subnet is designed to generate high-quality, decentralized datasets to support AI model training. By leveraging the Bittensor network, the subnet ensures that dataset creation, refinement, and validation are performed in a decentralized and transparent manner."
 
     },
     "64": {
