@@ -521,7 +521,7 @@
         "description": "Precog is an AI-powered high-frequency $BTC price forecasting subnet underpinned by Coin Metrics’ comprehensive and trusted data. Miners produce financial intelligence utilizing the same datasets which power the most prestigious institutions touching cryptoassets."
 
     },
-"56": {
+    "56": {
         "bittensor_id":"djim",
         "name": "Gradients",
         "owner":"5G77DNXrfAxbvi53p3mh88kRMySBcJsv9j9cH4KU6ALWXgQF",
@@ -593,7 +593,7 @@
     "63": {
         "bittensor_id":"sin",
         "name": "Finesτ Daτa",
-        "owner":"",
+        "owner":"5CXjSVjuYZbGdWRPym973suAaZ1Vh39p3nQEHNvFaKk2LTY1",
         "github": "https://github.com/elevonix-labs/finest-data-subnet",
         "hw_requirements":"https://github.com/elevonix-labs/finest-data-subnet/blob/main/min_compute.yml",
         "image_url":"https://github.com/elevonix-labs/finest-data-subnet/blob/main/docs/GitHub%20Banner.jpg",
