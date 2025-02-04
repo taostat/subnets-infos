@@ -127,12 +127,12 @@
     },
     "14": {
         "bittensor_id":"xi",
-        "name": "Palaidn",
-        "owner":"5GR5TWbbD2Du1DuokpU6gQzKEjNwUWiB6aewjdAn8nREdiMF",
-        "github": "https://github.com/palaidn/palaidn_subnet",
+        "name": "VectorStore",
+        "owner":"",
+        "github": "https://github.com/vector-pool/vector-store",
         "hw_requirements":"",
         "image_url":"",
-        "description": "Harnessing the power of decentralization for fraud detection. "
+        "description": "Bittensor Subnet VectorStore: A decentralized network for storing and retrieving vector data (text) to enhance AI."
     },
     "15": {
         "bittensor_id":"omicron",
