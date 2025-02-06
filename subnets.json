@@ -383,12 +383,12 @@
     },
     "42": {
         "bittensor_id":"samekh",
-        "name": "Masa",
+        "name": "Real-Time Data by Masa",
         "owner":"5Gbdb5s2WrRaFXTgMUiVNBKACe3cgSLwZNyK2Vwvjfvf6jUJ",
         "github": "https://github.com/masa-finance/masa-bittensor",
         "hw_requirements":"",
         "image_url":"",
-        "description": "We are on a mission to revolutionize the AI landscape by providing an open, permissionless marketplace for specialized AI training data and compute resources. "
+        "description": "Subnet 42 by Masa provides real-time, structured, and high-quality data for AI Agents and Application builders."
 
     },
     "43": {
