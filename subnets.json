@@ -325,12 +325,12 @@
     },
     "36": {
         "bittensor_id":"lamed",
-        "name": "",
-        "owner":"",
-        "github": "",
-        "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "name": "Web Agents - Autoppia",
+        "owner":"5DPtMdkMau8G8fGbPxdYSKCBo94oC7mDyHKMvVdNdsLVT3EF",
+        "github": "https://github.com/autoppia/autoppia_web_agents_subnet",
+        "hw_requirements":"https://github.com/autoppia/autoppia_web_agents_subnet/blob/main/min_compute.yml",
+        "image_url":"https://app.autoppia.com/assets/images/logo/icon256.png",
+        "description": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor miners to develop SOTA web agents"
     },
     "37": {
         "bittensor_id":"mem",
