@@ -592,7 +592,7 @@
     },
     "63": {
         "bittensor_id":"sin",
-        "name": "",
+        "name": "Unknown",
         "owner":"",
         "github": "",
         "hw_requirements":"",
@@ -603,7 +603,7 @@
     "64": {
         "bittensor_id":"shin",
         "name": "Chutes",
-        "owner":"",
+        "owner":"5DyV8a62E2t2C4FoSqjihdV5USVXPEZYvZtUjXxZq1Mnvwwg",
         "github": "https://github.com/rayonlabs/chutes",
         "hw_requirements":"",
         "image_url":"",
