@@ -244,12 +244,12 @@
     },
     "27": {
         "bittensor_id":"gimel",
-        "name": "Compute",
+        "name": "NI Compute",
         "owner":"5Cyfk5Jjee6uCafjZyUUjtKd7Q4qh1yJ48Ts7bkT9xXaDqe1",
         "github": "https://github.com/neuralinternet/compute-subnet",
         "hw_requirements":"",
         "image_url":"",
-        "description": "This repository serves as a compute-composable subnet, integrating various cloud platforms (e.g., Runpod, Lambda, AWS) into a cohesive unit. Its purpose is to enable higher-level cloud platforms to offer seamless compute composability across different underlying platforms. "
+        "description": "Transforming compute power into a digital commodity—unlocking distributed, on-demand GPU cloud resources for AI acceleration."
     },
     "28": {
         "bittensor_id":"dalet",
