@@ -609,6 +609,16 @@
         "image_url":"",
         "description": "Serverless AI compute. Run any AI model"
 
+    },
+    "65": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "owner":"5C8UAnEkWyuDTMysj3Hg3n2q787R6xvvcqvV5x4bujEWGRgE",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+
     }
 
 
