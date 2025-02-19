@@ -413,7 +413,7 @@
     },
     "45": {
         "bittensor_id":"pe",
-        "name": "Gen42 - Rizzo",
+        "name": "SWE - Rizzo",
         "owner":"5FbcZiAHA75i2bPVrF7wa9mFaxV1eM27HR63kJtbpb8spvmf",
         "github": "https://github.com/brokespace/code/",
         "hw_requirements":"",
@@ -423,12 +423,12 @@
     },
     "46": {
         "bittensor_id":"final-tsadi",
-        "name": "NeuralAI",
+        "name": "Neural3D",
         "owner":"5Ek83SLwZi1P6s3E3kCfmxZJ5HHVepDsdpxJERfvpiopG5jz",
         "github": "https://github.com/GoNeuralAI/neural-subnet",
         "hw_requirements":"",
         "image_url":"https://camo.githubusercontent.com/76d438c5a5024517e52c52c750f92bfcf25ff88bd2b611e3280bb86c7ea02db7/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313736333838303232383536373236393337362f313732323534313230302f3135303078353030",
-        "description": "NeuralAI is a Bittensor subnet dedicated to the generation of 3D models using advanced neural network techniques. Our goal is to allow developers and artists access to tools that simplify the creation of high-quality 3D assets for various applications, including gaming, virtual reality, and simulations."
+        "description": "Neural3D is Decentralized World Building on Bittensor. We are dedicated to the generation of high quality, 3D assets. Game studios, indie developers and artists integrate our subnet output into their workflows for various industries including games, VR, construction and much more."
 
     },
     "47": {
