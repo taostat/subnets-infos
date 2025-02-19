@@ -118,7 +118,7 @@
     },
     "13": {
         "bittensor_id":"nu",
-        "name": "Dataverse",
+        "name": "Data Universe",
         "owner":"5HBswBt1A9Ahx6U76abXXGd7VmabmCNBGhSK2vrP71GSxtgZ",
         "github": "https://github.com/macrocosm-os/data-universe/",
         "hw_requirements":"https://github.com/macrocosm-os/data-universe/blob/main/docs/miner.md#system-requirements",
