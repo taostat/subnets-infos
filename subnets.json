@@ -408,7 +408,7 @@
         "github": "https://github.com/score-technologies/score-vision",
         "hw_requirements":"https://github.com/score-protocol/score-predict/blob/main/min_compute.yml",
         "image_url":"",
-        "description": "Score Predict is a Bittensor subnet designed to incentivize accurate football (soccer) match predictions."
+        "description": "Building the future of sports intelligence: decentralized computer vision turning every frame into valuable insights and predictive analytics."
 
     },
     "45": {
@@ -619,8 +619,17 @@
         "image_url":"",
         "description": ""
 
-    }
+    },
+     "66": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "owner":"5Grk5jAYsWSUMkAqKX5fmLyEKG8StdjbNPBXTPvz413MWik5",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
 
+    }
 
 
 
