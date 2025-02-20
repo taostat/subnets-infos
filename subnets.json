@@ -253,12 +253,12 @@
     },
     "28": {
         "bittensor_id":"dalet",
-        "name": "Unknown",
-        "owner":"",
-        "github": "",
+        "name": "LOL",
+        "owner":"5Ca8L8PkbqXUtzohKtSM3i1naGQxANGLx51kJsEPNB14Admz",
+        "github": "https://github.com/Tao-Accumulation-Corporation/lol",
         "hw_requirements":"",
-        "image_url":"",
-        "description": ""
+        "image_url":"https://emojipedia.org/face-with-tears-of-joy",
+        "description": "Funny Meme"
     },
     "29": {
         "bittensor_id":"he",
