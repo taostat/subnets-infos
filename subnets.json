@@ -628,7 +628,24 @@
         "hw_requirements":"",
         "image_url":"",
         "description": "FakeNews is subnet, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions—even for real-time verifications. Our vision is to create the world’s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with help and power of decentralized AI community."
-
+    },
+     "67": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "owner":"5H9djFYLbh72qDkXq3283FfnhzL5np4TmQgir9kBQmg99GkG",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+     "66": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "owner":"5EcdJLAeYoxM3Tsf5VZ3NQPenPku218gqnjSoo3iJNy4V12V",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
     }
 
 
