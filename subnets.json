@@ -617,7 +617,7 @@
         "github": "",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers."
 
     },
      "66": {
@@ -633,7 +633,7 @@
         "bittensor_id":"",
         "name": "Unknown",
         "owner":"5H9djFYLbh72qDkXq3283FfnhzL5np4TmQgir9kBQmg99GkG",
-        "github": "",
+        "github": "https://github.com/beyond-stake/tpn-subnet",
         "hw_requirements":"",
         "image_url":"",
         "description": ""
