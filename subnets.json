@@ -614,7 +614,7 @@
         "bittensor_id":"",
         "name": "TAO Private Network ",
         "owner":"5C8UAnEkWyuDTMysj3Hg3n2q787R6xvvcqvV5x4bujEWGRgE",
-        "github": "",
+        "github": "https://github.com/beyond-stake/tpn-subnet",
         "hw_requirements":"",
         "image_url":"",
         "description": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers."
@@ -633,7 +633,7 @@
         "bittensor_id":"",
         "name": "Unknown",
         "owner":"5H9djFYLbh72qDkXq3283FfnhzL5np4TmQgir9kBQmg99GkG",
-        "github": "https://github.com/beyond-stake/tpn-subnet",
+        "github": "",
         "hw_requirements":"",
         "image_url":"",
         "description": ""
