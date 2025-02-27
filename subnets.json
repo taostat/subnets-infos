@@ -637,6 +637,33 @@
         "hw_requirements":"",
         "image_url":"",
         "description": ""
+    },
+     "68": {
+        "bittensor_id":"",
+        "name": "Nova",
+        "owner":"5EcdJLAeYoxM3Tsf5VZ3NQPenPku218gqnjSoo3iJNy4V12V",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+     "69": {
+        "bittensor_id":"ain",
+        "name": "Unknown",
+        "owner":"5EsorPyFCP7TaNz3QrNvDvr8ZDVtG9hfzNEfGeAVG9wbFi2B",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+     "70": {
+        "bittensor_id":"ghayn",
+        "name": "Unknown",
+        "owner":"5GayCfNEMcf3jLsVbXK9wMNsWpXg6axNSooPAeKuJfjJfkSz",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
     }
 
 
