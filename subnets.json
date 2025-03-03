@@ -642,10 +642,10 @@
         "bittensor_id":"",
         "name": "Nova",
         "owner":"5EcdJLAeYoxM3Tsf5VZ3NQPenPku218gqnjSoo3iJNy4V12V",
-        "github": "",
+        "github": "https://github.com/metanova-labs/nova/",
         "hw_requirements":"",
         "image_url":"",
-        "description": ""
+        "description": "Decentralized ml-powered drug discovery platform incentivizing ai and heuristic innovation to uncover novel therapeutics from massive chemical databases. Transforming pharma r&d into a high‑speed, merit‑based competition that accelerates breakthroughs and unlocks licensing opportunities."
     },
      "69": {
         "bittensor_id":"ain",
