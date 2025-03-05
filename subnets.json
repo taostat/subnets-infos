@@ -664,6 +664,24 @@
         "hw_requirements":"",
         "image_url":"",
         "description": ""
+    },
+     "71": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "owner":"5G9yDFTi5DMYdbCz15H4m7r54b8gC8BGDmpqmsYxUbGKKwf6",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+     "72": {
+        "bittensor_id":"",
+        "name": "Unknown",
+        "owner":"5HTYVBxrF2WbVN8RBtFxAkBGuHJxjgLd9Sze5gxH4KC6GLCv",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
     }
 
 
