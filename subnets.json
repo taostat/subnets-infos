@@ -630,7 +630,7 @@
         "description": "FakeNews is subnet, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions—even for real-time verifications. Our vision is to create the world’s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with help and power of decentralized AI community."
     },
      "67": {
-        "bittensor_id":"",
+        "bittensor_id":"ta",
         "name": "Unknown",
         "owner":"5H9djFYLbh72qDkXq3283FfnhzL5np4TmQgir9kBQmg99GkG",
         "github": "",
@@ -639,7 +639,7 @@
         "description": ""
     },
      "68": {
-        "bittensor_id":"",
+        "bittensor_id":"NOVA",
         "name": "Nova",
         "owner":"5EcdJLAeYoxM3Tsf5VZ3NQPenPku218gqnjSoo3iJNy4V12V",
         "github": "https://github.com/metanova-labs/nova/",
@@ -666,7 +666,7 @@
         "description": ""
     },
      "71": {
-        "bittensor_id":"",
+        "bittensor_id":"fa",
         "name": "Unknown",
         "owner":"5G9yDFTi5DMYdbCz15H4m7r54b8gC8BGDmpqmsYxUbGKKwf6",
         "github": "",
@@ -675,9 +675,27 @@
         "description": ""
     },
      "72": {
-        "bittensor_id":"",
+        "bittensor_id":"qaf",
         "name": "Unknown",
         "owner":"5HTYVBxrF2WbVN8RBtFxAkBGuHJxjgLd9Sze5gxH4KC6GLCv",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+     "73": {
+        "bittensor_id":"kaf",
+        "name": "Unknown",
+        "owner":"5FJ2nf4JecSFHpd9tCcN34NzJVX9VFdiUrkQGd9gLPqM8ohM",
+        "github": "",
+        "hw_requirements":"",
+        "image_url":"",
+        "description": ""
+    },
+     "74": {
+        "bittensor_id":"lam",
+        "name": "Unknown",
+        "owner":"5HdKJJHNG2Zh2rkSrHjPoRa8xQ9Mq8NgQwfREDCpTawLa1aQ",
         "github": "",
         "hw_requirements":"",
         "image_url":"",
